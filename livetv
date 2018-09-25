@@ -1,411 +1,3421 @@
-#EXTINF:-1,~ USA TV ~
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1,MSNBC (SD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1,MSNBC (SD)*
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
-#EXTINF:-1,Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Bloomberg TV*
-http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
-#EXTINF:-1,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1,The Blaze
-https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
-#EXTINF:-1,InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1,RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:-1,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,MLB Network*
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
-#EXTINF:-1,NBA TV
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:-1,NBC Golf [NoRoku]
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1,Cartoon Network
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Comedy Central
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:-1,FreeForm [NoKodi]
-https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
-#EXTINF:-1,Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1,NatGeo Wild [Off]
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:-1,Science Channel
-http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
-#EXTINF:-1,truTV
-http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#EXTINF:-1,Velocity
-http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
-#EXTINF:-1,Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
-#EXTINF:-1,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,Channel 7 [NoRoku]
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1,Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-#EXTINF:-1,The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1,D23 TV
-http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-#EXTINF:-1,Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:-1,Evine [Off]
-http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
-#EXTINF:-1,Home Shopping Network
-http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-#EXTINF:-1,Hunt Channel
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
-#EXTINF:-1,MeTV
-http://video.metv.com/metv/index.m3u8
-#EXTINF:-1,NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
-#EXTINF:-1,NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
-#EXTINF:-1,SupTV
-http://91.134.238.137/live/alpha/index.m3u8
-#EXTINF:-1,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
-#EXTINF:-1,TWiT.TV
-http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
-#EXTINF:-1,Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-#EXTINF:-1,iHeart 80s
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-#EXTINF:-1,Lite FM 106.7
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-#EXTINF:-1,Nick Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-#EXTINF:-1,Z100 New York
-http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
-#EXTINF:-1,360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1,ASD TV
-http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
-#EXTINF:-1,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1,ATXN
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
-#EXTINF:-1,ATXN 2
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
-#EXTINF:-1,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1,Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1,Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1,Capital City Connection
-http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1,Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
-#EXTINF:-1,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1,Escambia TV
-http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,The Florida Channel
-http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
-#EXTINF:-1,Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:-1,Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1,House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1,KBVR TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1,Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-#EXTINF:-1,Laurel TV
-https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
-#EXTINF:-1,Miami TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-#EXTINF:-1,Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1,PGCPS
-http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
-#EXTINF:-1,RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,SCCtv
-http://media3.scctv.net/live/scctv_300/playlist.m3u8
-#EXTINF:-1,Seattle Channel
-https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
-#EXTINF:-1,Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-#EXTINF:-1,Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1,Temple TV
-http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
-#EXTINF:-1,TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1,TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1,TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1,UCTV
-http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
-#EXTINF:-1,UGA TV
-http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
-#EXTINF:-1,White Plains TV
-http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
-#EXTINF:-1,WHOH TV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,|USA| HBO
-http://195.154.107.246:1155/live/arous/arous1/2192.ts
-#EXTINF:-1,|USA| HBO Zone
-http://195.154.107.246:1155/live/arous/arous1/2987.ts
-#EXTINF:-1,|USA| HBO Comedy
-http://195.154.107.246:1155/live/arous/arous1/2989.ts
-#EXTINF:-1,|USA| HBO Signature
-http://195.154.107.246:1155/live/arous/arous1/2988.ts
-#EXTINF:-1,|USA| HALLMARK
-http://195.154.107.246:1155/live/arous/arous1/2196.ts
-#EXTINF:-1,|USA| CBS_ACTION_HD
-http://195.154.107.246:1155/live/arous/arous1/2331.ts
-#EXTINF:-1,|USA| FX_HD
-http://195.154.107.246:1155/live/arous/arous1/2195.ts
-#EXTINF:-1,|USA| SYFY HD
-http://195.154.107.246:1155/live/arous/arous1/2328.ts
-#EXTINF:-1,|USA| TBS HD
-http://195.154.107.246:1155/live/arous/arous1/2994.ts
-#EXTINF:-1,|USA| AFN MOVIE
-http://195.154.107.246:1155/live/arous/arous1/2997.ts
-#EXTINF:-1,|USA| Discovery_Investigation_ID
-http://195.154.107.246:1155/live/arous/arous1/2191.ts
-#EXTINF:-1,|USA| ANIMAL PLANET HD
-http://195.154.107.246:1155/live/arous/arous1/2996.ts
-#EXTINF:-1,|USA| DISCOVERY HD
-http://195.154.107.246:1155/live/arous/arous1/2993.ts
-#EXTINF:-1,|USA| Discovery Investigation ID
-http://195.154.107.246:1155/live/arous/arous1/2990.ts
-#EXTINF:-1,|USA| DISCOVERY Science HD
-http://195.154.107.246:1155/live/arous/arous1/2992.ts
-#EXTINF:-1,|USA| Discovery Showcase
-http://195.154.107.246:1155/live/arous/arous1/2991.ts
-#EXTINF:-1,|USA| National Geographic HD
-http://195.154.107.246:1155/live/arous/arous1/1765.ts
-#EXTINF:-1,|USA| A&E TV HD
-http://195.154.107.246:1155/live/arous/arous1/1458.ts
-#EXTINF:-1,|USA| Food-Network-HD
-http://195.154.107.246:1155/live/arous/arous1/1461.ts
-#EXTINF:-1,|USA| CNN HD
-http://195.154.107.246:1155/live/arous/arous1/2995.ts
-#EXTINF:-1,USA:CNBC_HD
-http://195.154.107.246:1155/live/arous/arous1/2330.ts
-#EXTINF:-1,|USA| Willow Cricket HD
-http://195.154.107.246:1155/live/arous/arous1/2986.ts
-#EXTINF:-1,|USA| BOOMBERANG
-http://195.154.107.246:1155/live/arous/arous1/2190.ts
-#EXTINF:-1,|USA| TSN 1HD
-http://195.154.107.246:1155/live/arous/arous1/1460.ts
-#EXTINF:-1,|USA| TSN 2HD
-http://195.154.107.246:1155/live/arous/arous1/1459.ts
-#EXTINF:-1,|USA| TSN 3HD
-http://195.154.107.246:1155/live/arous/arous1/1456.ts
-#EXTINF:-1,|USA| TSN 4HD
-http://195.154.107.246:1155/live/arous/arous1/1455.ts
-#EXTINF:-1,|USA| TSN 5HD
-http://195.154.107.246:1155/live/arous/arous1/1454.ts
-#EXTINF:-1,[USA] Astro SUPER SPORT 1HD
-http://195.154.107.246:1155/live/arous/arous1/49.ts
-#EXTINF:-1,[USA] ASTRO SUPER SPORT 2HD
-http://195.154.107.246:1155/live/arous/arous1/53.ts
-#EXTINF:-1,[USA] ASTRO SUPER SPORT 3HD
-http://195.154.107.246:1155/live/arous/arous1/149.ts
-#EXTINF:-1,|USA| Bein_Sports_USA_HD
-http://195.154.107.246:1155/live/arous/arous1/2329.ts
-#EXTINF:-1,|USA| C-SPAN1
-http://195.154.107.246:1155/live/arous/arous1/3000.ts
-#EXTINF:-1,[AR] AL NAHAR DRAMA HD
-http://195.154.107.246:1155/live/arous/arous1/1447.ts
-#EXTINF:-1,|USA| TNT.HD
-http://195.154.107.246:1155/live/arous/arous1/2999.ts
-#EXTINF:-1,|USA| C-SPAN3
-http://195.154.107.246:1155/live/arous/arous1/2998.ts
-#EXTINF:-1,USA: A&E HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28046.ts
-#EXTINF:-1,USA: ABC Action News
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28067.ts
-#EXTINF:-1,USA: ABC FAMILY/SPARK
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28068.ts
-#EXTINF:-1,USA: ABC HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28070.ts
-#EXTINF:-1,USA: BLOOMBERG TV
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27979.ts
-#EXTINF:-1,USA: Bounce TV
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28065.ts
-#EXTINF:-1,USA: CMT HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28008.ts
-#EXTINF:-1,USA: CNBC HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28044.ts
-#EXTINF:-1,USA: CNN
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28055.ts
-#EXTINF:-1,USA: CNN HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28054.ts
-#EXTINF:-1,USA: CNN HD INTERNATIONAL
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28053.ts
-#EXTINF:-1,USA: COMEDY CENTRAL
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28030.ts
-#EXTINF:-1,USA: Crime & Investigation
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28029.ts
-#EXTINF:-1,USA: CW 11 HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28056.ts
-#EXTINF:-1,USA: CW Channel 11
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27937.ts
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28022.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28021.ts
-#EXTINF:-1,USA: DISCOVERY SHOWCASE
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27978.ts
-#EXTINF:-1,USA: DISCOVERY VELOCITY
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28020.ts
-#EXTINF:-1,USA: Disney Channel HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28036.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28034.ts
-#EXTINF:-1,USA: Disney XD HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28035.ts
-#EXTINF:-1,USA: E! Network HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27990.ts
-#EXTINF:-1,USA: EURO NEWS
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27977.ts
-#EXTINF:-1,USA: Fight Network / MMA Network
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27976.ts
-#EXTINF:-1,USA: Fight Sport 1
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27944.ts
-#EXTINF:-1,USA: Fight Sport 2
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27941.ts
-#EXTINF:-1,USA: FOOD NETWORK
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28025.ts
-#EXTINF:-1,USA: FUSE HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28012.ts
-#EXTINF:-1,USA: FX HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28047.ts
-#EXTINF:-1,USA: GRIT TV MOVIES
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27973.ts
-#EXTINF:-1,USA: GSN TV
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27955.ts
-#EXTINF:-1,USA: HALLMARK HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27972.ts
-#EXTINF:-1,USA: HBO 2 COMEDY
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27971.ts
-#EXTINF:-1,USA: HBO Family HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27954.ts
-#EXTINF:-1,USA: HBO HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27970.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27969.ts
-#EXTINF:-1,USA: HBO ZONE
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27968.ts
-#EXTINF:-1,USA: HGTV HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27947.ts
-#EXTINF:-1,USA: HISTORY HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28023.ts
-#EXTINF:-1,USA: HSN YT LIVE 1080p HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27914.ts
-#EXTINF:-1,USA: KIDS READING TV
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27913.ts
-#EXTINF:-1,USA: LIFE TIME
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27967.ts
-#EXTINF:-1,USA: LIFETIME HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28024.ts
-#EXTINF:-1,USA: LMN HDTV
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27927.ts
-#EXTINF:-1,USA: MLB HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27966.ts
-#EXTINF:-1,USA: MOVIETIME
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27938.ts
-#EXTINF:-1,USA: MSNBC HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27948.ts
-#EXTINF:-1,USA: MTV 2 HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28015.ts
-#EXTINF:-1,USA: MTV HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28016.ts
-#EXTINF:-1,USA: MTV LIVE
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28014.ts
-#EXTINF:-1,USA: P.B.S Kids
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27959.ts
-#EXTINF:-1,USA: QVC Beauty IQ
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27912.ts
-#EXTINF:-1,USA: QVC Live
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27911.ts
-#EXTINF:-1,USA: QVC Plus
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27910.ts
-#EXTINF:-1,USA: RT DOCUMENTARY
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27964.ts
-#EXTINF:-1,USA: SYFY HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27963.ts
-#EXTINF:-1,USA: T.N.T
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28063.ts
-#EXTINF:-1,USA: TBS
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28050.ts
-#EXTINF:-1,USA: TBS HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28049.ts
-#EXTINF:-1,USA: TENNIS HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27921.ts
-#EXTINF:-1,USA: THE WALKING DEAD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27951.ts
-#EXTINF:-1,USA: The Weather Channel
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27932.ts
-#EXTINF:-1,USA: TLC
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28026.ts
-#EXTINF:-1,USA: TRAVEL CHANNEL
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28018.ts
-#EXTINF:-1,USA: TRU TV
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27920.ts
-#EXTINF:-1,USA: TV SERIES
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27961.ts
-#EXTINF:-1,USA: University of California TV
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27931.ts
-#EXTINF:-1,USA: USA Network
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28064.ts
-#EXTINF:-1,USA: VH1 HD
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/28013.ts
-#EXTINF:-1,USA: WEATHERNATION
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27919.ts
-#EXTINF:-1,USA: WWE Network
-http://213.32.11.165:80/live/MCsjhVMHd0/D8jc1Dvt95/27918.ts
+#EXTM3U
+#EXTINF:-1,& TV >FHD<.
+http://portal.simiptv.com:8001/live/MV/bhaskar/17058.ts
+#EXTINF:-1,& PICTURE >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17000.ts
+#EXTINF:-1,Hollywood dubbed @(Full HD).
+http://portal.simiptv.com:8001/live/MV/bhaskar/22333.ts
+#EXTINF:-1,Animal planet wd >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/19548.ts
+#EXTINF:-1,AXN>FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17930.ts
+#EXTINF:-1,Bollywood Best Movies  @ (Full HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18580.ts
+#EXTINF:-1,COLORS_HD >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17062.ts
+#EXTINF:-1,Discovery_HD_World >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/13426.ts
+#EXTINF:-1,Dubbed-Premium-Movies @ (Full HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/20972.ts
+#EXTINF:-1,Desi Plus>FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17583.ts
+#EXTINF:-1,HBO International >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17365.ts
+#EXTINF:-1,Housefull movie >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/19946.ts
+#EXTINF:-1,Hindi-Premium-Movies @(Full HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/20939.ts
+#EXTINF:-1,HINDI OLD IS GOLD SONG @(Full HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17783.ts
+#EXTINF:-1,Wion News >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17931.ts
+#EXTINF:-1,ZING >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/18586.ts
+#EXTINF:-1,National Geographic  >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/16890.ts
+#EXTINF:-1,PUNJABI NEW MOVIES @ (Full HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19380.ts
+#EXTINF:-1,Star Bharat >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17064.ts
+#EXTINF:-1,Star Plus >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17065.ts
+#EXTINF:-1,Star Gold >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17438.ts
+#EXTINF:-1,Star Hindi MoviS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/17366.ts
+#EXTINF:-1,STAR MOVIES >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17059.ts
+#EXTINF:-1,Star World >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/18581.ts
+#EXTINF:-1,HINDI PREM CLASSICS MOVIES
+http://portal.simiptv.com:8001/live/MV/bhaskar/17367.ts
+#EXTINF:-1,SONY TV >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/16995.ts
+#EXTINF:-1,Sony_SAB >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/13483.ts
+#EXTINF:-1,Sony Rox >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/16887.ts
+#EXTINF:-1,Sony Le Plex >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/17061.ts
+#EXTINF:-1,SONY PIX (Full Hd)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17060.ts
+#EXTINF:-1,Zee STUDIO @ (Full HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17057.ts
+#EXTINF:-1,Zee Cinema>FHD<.
+http://portal.simiptv.com:8001/live/MV/bhaskar/16996.ts
+#EXTINF:-1,Sony MAX>FHD<L
+http://portal.simiptv.com:8001/live/MV/bhaskar/18278.ts
+#EXTINF:-1,Travel XP >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/18588.ts
+#EXTINF:-1,ZEE TV >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/14914.ts
+#EXTINF:-1,Zee Café HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/22332.ts
+#EXTINF:-1,Cricket ASIACUP 1 OSN
+http://portal.simiptv.com:8001/live/MV/bhaskar/26444.ts
+#EXTINF:-1,GTV ASIACUP 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/26445.ts
+#EXTINF:-1,PTV ASIACUP 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/26446.ts
+#EXTINF:-1,VIP:Sky Sports cricket >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/23698.ts
+#EXTINF:-1,VIP:Sky Cricket-HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/23597.ts
+#EXTINF:-1,Vip: Star Sport 1 HINDI
+http://portal.simiptv.com:8001/live/MV/bhaskar/23598.ts
+#EXTINF:-1,VIP:Star Sports 2 >SD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/23599.ts
+#EXTINF:-1,VIP:Star Sports 2 Backup
+http://portal.simiptv.com:8001/live/MV/bhaskar/23600.ts
+#EXTINF:-1,Vip: Star Sport 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/23601.ts
+#EXTINF:-1,_*_*_*INDIAN TV_'_*_*
+http://portal.simiptv.com:8001/live/MV/bhaskar/5233.ts
+#EXTINF:-1,BTVI TV (YP)
+http://portal.simiptv.com:8001/live/MV/bhaskar/26433.ts
+#EXTINF:-1,-----Asian-UK(TIME)-----
+http://portal.simiptv.com:8001/live/MV/bhaskar/12948.ts
+#EXTINF:-1,AajTak (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21993.ts
+#EXTINF:-1,Aastha TV (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21994.ts
+#EXTINF:-1,IN@Hindi Bhajans HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15365.ts
+#EXTINF:-1,ABP NEWS (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21995.ts
+#EXTINF:-1,ABHI TAK
+http://portal.simiptv.com:8001/live/MV/bhaskar/25913.ts
+#EXTINF:-1,& TV (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14724.ts
+#EXTINF:-1,& Picture HD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2240.ts
+#EXTINF:-1,IN:NDTV NEWS UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/2308.ts
+#EXTINF:-1,IN:ABP NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/2338.ts
+#EXTINF:-1,B4U Movies (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/6714.ts
+#EXTINF:-1,B4U Music (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2330.ts
+#EXTINF:-1,Brit Asia (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2407.ts
+#EXTINF:-1,Imagine Movies (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/22334.ts
+#EXTINF:-1,COLORS TV (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7824.ts
+#EXTINF:-1,Sony Entertainment UK.
+http://portal.simiptv.com:8001/live/MV/bhaskar/7263.ts
+#EXTINF:-1,Sony Mix (UK).
+http://portal.simiptv.com:8001/live/MV/bhaskar/25836.ts
+#EXTINF:-1,SONY SETMAX (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7841.ts
+#EXTINF:-1,Sony SAB (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2248.ts
+#EXTINF:-1,STAR BHARAT (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2234.ts
+#EXTINF:-1,Star Gold (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/9102.ts
+#EXTINF:-1,STAR PLUS (UK) L
+http://portal.simiptv.com:8001/live/MV/bhaskar/7274.ts
+#EXTINF:-1,STAR PLUS >HD<(UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/23592.ts
+#EXTINF:-1,STAR UTSAV (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15374.ts
+#EXTINF:-1,Rishtey Europe (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7276.ts
+#EXTINF:-1,YP:UTV MOVIES UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/2370.ts
+#EXTINF:-1,RISHTEY CINEPLEX (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13203.ts
+#EXTINF:-1,IN:Venus TV (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18610.ts
+#EXTINF:-1,ZEE Cinema HD ( UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7258.ts
+#EXTINF:-1,Zee Anmol Cinema  (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/24860.ts
+#EXTINF:-1,ZEE TV (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2279.ts
+#EXTINF:-1,ZING (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/5236.ts
+#EXTINF:-1,IN:ZEE ETC BOLLYWOOD
+http://portal.simiptv.com:8001/live/MV/bhaskar/8986.ts
+#EXTINF:-1,--------Asian-INDIA(TIME)--------
+http://portal.simiptv.com:8001/live/MV/bhaskar/12949.ts
+#EXTINF:-1,-----Entertainment CHANNEL--------
+http://portal.simiptv.com:8001/live/MV/bhaskar/13670.ts
+#EXTINF:-1,&TV HD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18276.ts
+#EXTINF:-1,IN:DD India
+http://portal.simiptv.com:8001/live/MV/bhaskar/23694.ts
+#EXTINF:-1,Colors TV SD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7826.ts
+#EXTINF:-1,Star Bharat SD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7857.ts
+#EXTINF:-1,Rishtey Asia SD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7277.ts
+#EXTINF:-1,Star Plus SD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13001.ts
+#EXTINF:-1,Sahara One
+http://portal.simiptv.com:8001/live/MV/bhaskar/22331.ts
+#EXTINF:-1,ZEE TV SD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7869.ts
+#EXTINF:-1,YP::FOOD FOOD UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/18584.ts
+#EXTINF:-1,IN: SONY ENTERTAINMENT
+http://portal.simiptv.com:8001/live/MV/bhaskar/23591.ts
+#EXTINF:-1,SONY MAX 2 (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7840.ts
+#EXTINF:-1,IN:SONY SAB ASIA (SD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7838.ts
+#EXTINF:-1,SONY PAL (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16634.ts
+#EXTINF:-1,IN:ZEE Anmol HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/2369.ts
+#EXTINF:-1,------MUSIC CHANNEL------
+http://portal.simiptv.com:8001/live/MV/bhaskar/13671.ts
+#EXTINF:-1,IN:YRF | Music
+http://portal.simiptv.com:8001/live/MV/bhaskar/13224.ts
+#EXTINF:-1,Zee Music Company (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16992.ts
+#EXTINF:-1,E24 Music (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15056.ts
+#EXTINF:-1,MTV-IN
+http://portal.simiptv.com:8001/live/MV/bhaskar/9713.ts
+#EXTINF:-1,IN:9 XM
+http://portal.simiptv.com:8001/live/MV/bhaskar/16632.ts
+#EXTINF:-1,MUSIC INDIA (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13222.ts
+#EXTINF:-1,IN:ZOOM
+http://portal.simiptv.com:8001/live/MV/bhaskar/16631.ts
+#EXTINF:-1,------MOVIES CHANNEL--------
+http://portal.simiptv.com:8001/live/MV/bhaskar/13672.ts
+#EXTINF:-1,IN:& PICTURE HD
+https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+#EXTINF:-1,IN:B4U Movies
+http://portal.simiptv.com:8001/live/MV/bhaskar/21879.ts
+#EXTINF:-1,B4U PLUS (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14701.ts
+#EXTINF:-1,SONY LE PLEX (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16635.ts
+#EXTINF:-1,Hindi ACTION Movies (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16120.ts
+#EXTINF:-1,Movies OK -IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16994.ts
+#EXTINF:-1,IN:Sony Max SD/HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/13435.ts
+#EXTINF:-1,IN:STAR GOLD  HD (india)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15341.ts
+#EXTINF:-1,IN:Rishtey Cineplex India
+http://portal.simiptv.com:8001/live/MV/bhaskar/23754.ts
+#EXTINF:-1,IN:Dabangg
+http://portal.simiptv.com:8001/live/MV/bhaskar/14547.ts
+#EXTINF:-1,IN:ZEE ACTION HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/7273.ts
+#EXTINF:-1,ZEE Classic (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2372.ts
+#EXTINF:-1,IN:Zee Studio SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/7818.ts
+#EXTINF:-1,IN:ZEE CINEMA
+http://portal.simiptv.com:8001/live/MV/bhaskar/14848.ts
+#EXTINF:-1,IN:WOW Cinema
+http://portal.simiptv.com:8001/live/MV/bhaskar/16125.ts
+#EXTINF:-1,------NEWS CHANNEL------
+http://portal.simiptv.com:8001/live/MV/bhaskar/9104.ts
+#EXTINF:-1,IN:DD News
+http://portal.simiptv.com:8001/live/MV/bhaskar/2394.ts
+#EXTINF:-1,IN@News World India
+http://portal.simiptv.com:8001/live/MV/bhaskar/14675.ts
+#EXTINF:-1,IN:JANTA TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/24229.ts
+#EXTINF:-1,IN:NEWS 18 INDIA
+http://portal.simiptv.com:8001/live/MV/bhaskar/24236.ts
+#EXTINF:-1,IN:IBC 24 NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/24241.ts
+#EXTINF:-1,IN:CNN News 18 (NEWS)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19860.ts
+#EXTINF:-1,IN: IBN 7 (NEWS)
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+#EXTINF:-1,IN:INDIA TV NEWS
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:-1,IN: NEWS X (NEWS) '
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w1159112955_b256000.m3u8
+#EXTINF:-1,IN:NDTV INDIA (HINDI) NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/7849.ts
+#EXTINF:-1,IN:Sadhana Plus News
+http://portal.simiptv.com:8001/live/MV/bhaskar/26456.ts
+#EXTINF:-1,IN: ET NOW (News)
+http://portal.simiptv.com:8001/live/MV/bhaskar/25819.ts
+#EXTINF:-1,Mirror Now (News) -IN
+http://portal.simiptv.com:8001/live/MV/bhaskar/25820.ts
+#EXTINF:-1,IN:Times NOW (NEWS)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14369.ts
+#EXTINF:-1,ZEE NEWS (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7816.ts
+#EXTINF:-1,ZEE BUSINESS (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7831.ts
+#EXTINF:-1,-----CARTOON CHANNEL------
+http://portal.simiptv.com:8001/live/MV/bhaskar/9105.ts
+#EXTINF:-1,IN:CARTOON NETWORK HINDI
+http://portal.simiptv.com:8001/live/MV/bhaskar/5287.ts
+#EXTINF:-1,IN@CARTOON 24 (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13002.ts
+#EXTINF:-1,Sony Yay Hindi (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/6481.ts
+#EXTINF:-1,-----INFORMATION CHANNEL-----
+http://portal.simiptv.com:8001/live/MV/bhaskar/13673.ts
+#EXTINF:-1,IN:Sony BBC Earth
+http://portal.simiptv.com:8001/live/MV/bhaskar/16997.ts
+#EXTINF:-1,IN:HISTORY (ing)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16998.ts
+#EXTINF:-1,Discovery_Channel_Hindi (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16999.ts
+#EXTINF:-1,Animal Planet HINDI HD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13202.ts
+#EXTINF:-1,IN:KADAK HUNGAMA HIT(UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13443.ts
+#EXTINF:-1,Discovery Science Hindi (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14371.ts
+#EXTINF:-1,Discovery Turbo (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14370.ts
+#EXTINF:-1,IN:Travel XP SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/13819.ts
+#EXTINF:-1,IN:MITRA TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21991.ts
+#EXTINF:-1,IN:SADHANA TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/24228.ts
+#EXTINF:-1,IN:SONY MIX
+http://portal.simiptv.com:8001/live/MV/bhaskar/19947.ts
+#EXTINF:-1,PB@Jap ji Shaib Katha (Giani Kulwant Singh Ji)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19449.ts
+#EXTINF:-1,PB@Sri Guru Granth Sahib Ji Da Sahaj Paath
+http://portal.simiptv.com:8001/live/MV/bhaskar/26256.ts
+#EXTINF:-1,PB:@ Katha Sukhmani Sahib ji
+http://portal.simiptv.com:8001/live/MV/bhaskar/15344.ts
+#EXTINF:-1,PB@Katha Manji Sahib Diwan Hall
+http://portal.simiptv.com:8001/live/MV/bhaskar/23478.ts
+#EXTINF:-1,PB@GURBANI KATHA VICHAR
+http://portal.simiptv.com:8001/live/MV/bhaskar/19445.ts
+#EXTINF:-1,PB@Bhai Pinderpal Singh Ji (Katha)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16630.ts
+#EXTINF:-1,PB@Nitname Gurbani
+http://portal.simiptv.com:8001/live/MV/bhaskar/25821.ts
+#EXTINF:-1,BHAI RANJIT SINGH NEW
+http://portal.simiptv.com:8001/live/MV/bhaskar/16697.ts
+#EXTINF:-1,PB@ BHAI RANJIT SINGH JI NEW
+http://portal.simiptv.com:8001/live/MV/bhaskar/16698.ts
+#EXTINF:-1,PB@Sikhi Lehar
+http://portal.simiptv.com:8001/live/MV/bhaskar/15351.ts
+#EXTINF:-1,PB@ PUNJABI  MOVIES HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16626.ts
+#EXTINF:-1,PB: KHALSA SONGS
+http://portal.simiptv.com:8001/live/MV/bhaskar/25223.ts
+#EXTINF:-1,PB@Operation Blue Star 1984
+http://portal.simiptv.com:8001/live/MV/bhaskar/17585.ts
+#EXTINF:-1,PB@ Katah & Kirtan
+http://portal.simiptv.com:8001/live/MV/bhaskar/17584.ts
+#EXTINF:-1,PB@Punjabi Best movies
+http://portal.simiptv.com:8001/live/MV/bhaskar/16699.ts
+#EXTINF:-1,PB:GARV  PANAJAB
+http://portal.simiptv.com:8001/live/MV/bhaskar/26461.ts
+#EXTINF:-1,PB:Akaal Channel (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18591.ts
+#EXTINF:-1,PB:Khalsa TV HD (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14691.ts
+#EXTINF:-1,PB:Sikh Channal (Uk)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2309.ts
+#EXTINF:-1,PB:Sangat TV(uk)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2352.ts
+#EXTINF:-1,PTC PUNJABI (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/6817.ts
+#EXTINF:-1,PB:PTC PUNJABI (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18578.ts
+#EXTINF:-1,PB:PTC NEWS (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/22335.ts
+#EXTINF:-1,PB:ZEE Punjabi HRY
+http://portal.simiptv.com:8001/live/MV/bhaskar/3893.ts
+#EXTINF:-1,PB:Kartartv HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26436.ts
+#EXTINF:-1,PB:Jus One HD,
+http://portal.simiptv.com:8001/live/MV/bhaskar/23700.ts
+#EXTINF:-1,PB:JUS Punjab HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/23699.ts
+#EXTINF:-1,PB:Punjabi Music Mix
+http://portal.simiptv.com:8001/live/MV/bhaskar/5352.ts
+#EXTINF:-1,PB:Gurdwara Dukh Niwaran
+http://portal.simiptv.com:8001/live/MV/bhaskar/2418.ts
+#EXTINF:-1,PB:Ankhila punjab tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/2431.ts
+#EXTINF:-1,9X Tashan (PB)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2324.ts
+#EXTINF:-1,PB:Pitaara TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/2325.ts
+#EXTINF:-1,PB:Boogle Bollywood HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/2316.ts
+#EXTINF:-1,PB:Cine Voice
+http://portal.simiptv.com:8001/live/MV/bhaskar/5348.ts
+#EXTINF:-1,PB:Chardikla TimeTv-
+http://portal.simiptv.com:8001/live/MV/bhaskar/2412.ts
+#EXTINF:-1,PB:DD Punjabi
+http://portal.simiptv.com:8001/live/MV/bhaskar/2408.ts
+#EXTINF:-1,PB:APNA Punjab TV.
+http://portal.simiptv.com:8001/live/MV/bhaskar/13353.ts
+#EXTINF:-1,PB:CHAKDE TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/7814.ts
+#EXTINF:-1,PB:FastwayTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/2314.ts
+#EXTINF:-1,PB:TEHLKA TV(CA)
+http://portal.simiptv.com:8001/live/MV/bhaskar/8550.ts
+#EXTINF:-1,PB:5AAB TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/2387.ts
+#EXTINF:-1,PB:84TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/2318.ts
+#EXTINF:-1,PB: Sahib TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/2386.ts
+#EXTINF:-1,PB: Khalistani TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/22484.ts
+#EXTINF:-1,PB: Fathe TV (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2327.ts
+#EXTINF:-1,PB:Punjabi Tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/13207.ts
+#EXTINF:-1,PB:PBN MUSIC HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/18749.ts
+#EXTINF:-1,PB:Sanjha Punjab TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/19633.ts
+#EXTINF:-1,PB: News18 punjabi..
+http://portal.simiptv.com:8001/live/MV/bhaskar/13669.ts
+#EXTINF:-1,PB:PTC Chakde Punjabi
+http://portal.simiptv.com:8001/live/MV/bhaskar/2229.ts
+#EXTINF:-1,PB:DPD HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/13199.ts
+#EXTINF:-1,PB:Sur Sagar TV (CANADA)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2228.ts
+#EXTINF:-1,PB: Shan Punjabi (Canada)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21566.ts
+#EXTINF:-1,PB:Mh one HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/5205.ts
+#EXTINF:-1,PB:Mh one News HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/5206.ts
+#EXTINF:-1,PB:Life Punjabi
+http://portal.simiptv.com:8001/live/MV/bhaskar/15342.ts
+#EXTINF:-1,PB:Prime Asia HD (CA)
+http://portal.simiptv.com:8001/live/MV/bhaskar/2323.ts
+#EXTINF:-1,PB:BBC Toronto
+http://portal.simiptv.com:8001/live/MV/bhaskar/15353.ts
+#EXTINF:-1,PB: SIKH Channel USA
+http://portal.simiptv.com:8001/live/MV/bhaskar/20468.ts
+#EXTINF:-1,PB:Gurbani TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21081.ts
+#EXTINF:-1,PB:Ekta TV Gurbani
+http://portal.simiptv.com:8001/live/MV/bhaskar/21082.ts
+#EXTINF:-1,PB:Steelbird Music
+http://portal.simiptv.com:8001/live/MV/bhaskar/21328.ts
+#EXTINF:-1,PB:Virsa TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21567.ts
+#EXTINF:-1,PB:Jhanjar Music >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/23771.ts
+#EXTINF:-1,PB:EKTA TV (CANADA)
+http://portal.simiptv.com:8001/live/MV/bhaskar/25215.ts
+#EXTINF:-1,PB:Gabruu TV HD (Aust)
+http://portal.simiptv.com:8001/live/MV/bhaskar/25216.ts
+#EXTINF:-1,PB:SGSS MALTON(Canada)
+http://portal.simiptv.com:8001/live/MV/bhaskar/24247.ts
+#EXTINF:-1,PB: Prime + HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:-1,PB:Alpha ETC Punjabi
+http://portal.simiptv.com:8001/live/MV/bhaskar/26162.ts
+#EXTINF:-1,PB:Jus 24x7. HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26150.ts
+#EXTINF:-1,PB:MEDIA Punjab HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25833.ts
+#EXTINF:-1,**Welcome To Simiptv **
+http://portal.simiptv.com:8001/live/MV/bhaskar/9207.ts
+#EXTINF:-1,Simiptv@24x7 Gurbani Kirtan HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16097.ts
+#EXTINF:-1,Simiptv@hindi dubbed Boxoffice
+http://portal.simiptv.com:8001/live/MV/bhaskar/16524.ts
+#EXTINF:-1,Simiptv@Katha Gyani Sant Singh Ji Maskeen
+http://portal.simiptv.com:8001/live/MV/bhaskar/16532.ts
+#EXTINF:-1,SIMIPTV@P: PUNJABI BOX OFFICE
+http://portal.simiptv.com:8001/live/MV/bhaskar/19470.ts
+#EXTINF:-1,Simiptv@P: Punjabi Comedy Seans
+http://portal.simiptv.com:8001/live/MV/bhaskar/19479.ts
+#EXTINF:-1,Simiptv@Punjabi Best Movies
+http://portal.simiptv.com:8001/live/MV/bhaskar/17890.ts
+#EXTINF:-1,Simiptv@Punjabi ComedyHD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16533.ts
+#EXTINF:-1,SIMIPTV@PUNJABI MOVIES FHD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16117.ts
+#EXTINF:-1,SIMIPTV@PUNJABI OLD MOVIES
+http://portal.simiptv.com:8001/live/MV/bhaskar/16291.ts
+#EXTINF:-1,Simiptv@Sikh History
+http://portal.simiptv.com:8001/live/MV/bhaskar/18558.ts
+#EXTINF:-1,SIMIPTV@The Kapil Sharma Show HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16528.ts
+#EXTINF:-1,Simiptv@ Hindi Romantic Song
+http://portal.simiptv.com:8001/live/MV/bhaskar/21137.ts
+#EXTINF:-1,SIMIPTV@Bhai Harchar Singh ji
+http://portal.simiptv.com:8001/live/MV/bhaskar/22485.ts
+#EXTINF:-1,Simipt@ Best Song Punjabi
+http://portal.simiptv.com:8001/live/MV/bhaskar/20612.ts
+#EXTINF:-1,***( UK SPORT )***
+http://portal.simiptv.com:8001/live/MV/bhaskar/21816.ts
+#EXTINF:-1,***( UK MOVIES )***
+http://portal.simiptv.com:8001/live/MV/bhaskar/21815.ts
+#EXTINF:-1,***( UK DOCUMENTARY )***
+http://portal.simiptv.com:8001/live/MV/bhaskar/21814.ts
+#EXTINF:-1,***( UK KIDS )***
+http://portal.simiptv.com:8001/live/MV/bhaskar/21817.ts
+#EXTINF:-1,***( UK ENTERTAINMENT )***
+http://portal.simiptv.com:8001/live/MV/bhaskar/21813.ts
+#EXTINF:-1,***( UK NEWS )***
+http://portal.simiptv.com:8001/live/MV/bhaskar/21818.ts
+#EXTINF:-1,(UK) 5 USA
+http://portal.simiptv.com:8001/live/MV/bhaskar/15605.ts
+#EXTINF:-1,5 USA +1 >HD<(UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/22482.ts
+#EXTINF:-1,(UK) Alibi FHD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15604.ts
+#EXTINF:-1,(UK)  Animal Planet (SD/HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15603.ts
+#EXTINF:-1,(UK) Al Jazeera News >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15430.ts
+#EXTINF:-1,BBC One London (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/23510.ts
+#EXTINF:-1,(UK) BBC One Scotland (FHD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15600.ts
+#EXTINF:-1,BBC Two (HD) -UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15599.ts
+#EXTINF:-1,(UK) BBC Three HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15598.ts
+#EXTINF:-1,BBC Four (HD)-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15597.ts
+#EXTINF:-1,(UK) BBC Parliament
+http://portal.simiptv.com:8001/live/MV/bhaskar/15423.ts
+#EXTINF:-1,(UK) BBC World News
+http://portal.simiptv.com:8001/live/MV/bhaskar/15596.ts
+#EXTINF:-1,(UK) BBC Red Button
+http://portal.simiptv.com:8001/live/MV/bhaskar/15422.ts
+#EXTINF:-1,(UK) Baby TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15601.ts
+#EXTINF:-1,(UK) Boomerang >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15592.ts
+#EXTINF:-1,(UK) Box Office Movies 1 >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/16472.ts
+#EXTINF:-1,BT Sport Europe UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21944.ts
+#EXTINF:-1,BT Sports 3 UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21951.ts
+#EXTINF:-1,BT Sports 3 FHD UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21952.ts
+#EXTINF:-1,UK | Channel Aka
+http://portal.simiptv.com:8001/live/MV/bhaskar/15416.ts
+#EXTINF:-1,(UK) Capital Radio Tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/22483.ts
+#EXTINF:-1,(UK) Channel 4+1 (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/22475.ts
+#EXTINF:-1,(UK) Channel 5 (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/22476.ts
+#EXTINF:-1,Comedy Central (SD)-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15570.ts
+#EXTINF:-1,(UK) Comedy Central Extra +1 (SD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/22477.ts
+#EXTINF:-1,(UK) E!
+http://portal.simiptv.com:8001/live/MV/bhaskar/15414.ts
+#EXTINF:-1,(UK) E4
+http://portal.simiptv.com:8001/live/MV/bhaskar/15554.ts
+#EXTINF:-1,UK: E4+1 (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/22478.ts
+#EXTINF:-1,UK : France 24 English
+http://portal.simiptv.com:8001/live/MV/bhaskar/15411.ts
+#EXTINF:-1,(UK) 4Seven
+http://portal.simiptv.com:8001/live/MV/bhaskar/15607.ts
+#EXTINF:-1,(UK) Good Food
+http://portal.simiptv.com:8001/live/MV/bhaskar/15539.ts
+#EXTINF:-1,(UK) History Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/15537.ts
+#EXTINF:-1,(UK ) History 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15410.ts
+#EXTINF:-1,(UK) Investigation Discovery HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15406.ts
+#EXTINF:-1,(UK) More 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/15522.ts
+#EXTINF:-1,(UK) MTV Classic_
+http://portal.simiptv.com:8001/live/MV/bhaskar/15376.ts
+#EXTINF:-1,MTV Rocks-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15399.ts
+#EXTINF:-1,(UK) National Geographic (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15515.ts
+#EXTINF:-1,(UK) Nicktoons
+http://portal.simiptv.com:8001/live/MV/bhaskar/15511.ts
+#EXTINF:-1,(UK) NHK World News
+http://portal.simiptv.com:8001/live/MV/bhaskar/15397.ts
+#EXTINF:-1,(UK) BT Sport 1 >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21956.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21942.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21943.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21954.ts
+#EXTINF:-1,Sky Atlantic >HD<-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15501.ts
+#EXTINF:-1,Sky Sports The Open FHD (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21961.ts
+#EXTINF:-1,SkySp Pr.League HD-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21962.ts
+#EXTINF:-1,Sky Sports Premier League FHD (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21964.ts
+#EXTINF:-1,(UK) Sky Sports News >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21983.ts
+#EXTINF:-1,SkySp Cricket >HD<-UK,
+http://portal.simiptv.com:8001/live/MV/bhaskar/21976.ts
+#EXTINF:-1,(UK) Sky Sports Main Event >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21967.ts
+#EXTINF:-1,Sky Sports Golf  FHD (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21969.ts
+#EXTINF:-1,(UK) Sky Sports Football >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21972.ts
+#EXTINF:-1,Sky Sports F1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21987.ts
+#EXTINF:-1,Sky Sports Box Office (Live During Events Only) UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21959.ts
+#EXTINF:-1,SkySp Arena SD-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21978.ts
+#EXTINF:-1,(UK) Sky Sports Action >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21980.ts
+#EXTINF:-1,Sky Movies Sci-fi & Horror-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/13283.ts
+#EXTINF:-1,(UK) Sky Movies Drama & Romance
+http://portal.simiptv.com:8001/live/MV/bhaskar/13289.ts
+#EXTINF:-1,(UK) Sky Movies Crime &Thriller
+http://portal.simiptv.com:8001/live/MV/bhaskar/13291.ts
+#EXTINF:-1,(UK) Sky Movies Comedy
+http://portal.simiptv.com:8001/live/MV/bhaskar/13292.ts
+#EXTINF:-1,(UK) Sky Movies Action & Adventure
+http://portal.simiptv.com:8001/live/MV/bhaskar/13294.ts
+#EXTINF:-1,UK_Sky  Boxoffice 3D >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21101.ts
+#EXTINF:-1,UK_ Sky  Boxoffice 1 >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21102.ts
+#EXTINF:-1,UK_Sky Boxoffice 2>FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21096.ts
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21098.ts
+#EXTINF:-1,SyFy -UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15471.ts
+#EXTINF:-1,(UK) SONY CHANNEL
+http://portal.simiptv.com:8001/live/MV/bhaskar/15387.ts
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21095.ts
+#EXTINF:-1,UK : SONY MOVIES
+http://portal.simiptv.com:8001/live/MV/bhaskar/15386.ts
+#EXTINF:-1,(UK) Sony Crime Channel2.
+http://portal.simiptv.com:8001/live/MV/bhaskar/15380.ts
+#EXTINF:-1,Nat Geo Wild-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15409.ts
+#EXTINF:-1,(UK) CBS Reality (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15575.ts
+#EXTINF:-1,(UK) Yesterday
+http://portal.simiptv.com:8001/live/MV/bhaskar/15457.ts
+#EXTINF:-1,(UK) Watch
+http://portal.simiptv.com:8001/live/MV/bhaskar/15458.ts
+#EXTINF:-1,(UK) Virgin Radio
+http://portal.simiptv.com:8001/live/MV/bhaskar/15375.ts
+#EXTINF:-1,(UK) VH1 Classic
+http://portal.simiptv.com:8001/live/MV/bhaskar/15377.ts
+#EXTINF:-1,(UK) VH1 >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15460.ts
+#EXTINF:-1,UK | UTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15378.ts
+#EXTINF:-1,Universal Channel-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15461.ts
+#EXTINF:-1,UK | TruTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15379.ts
+#EXTINF:-1,(UK) True Entertainment
+http://portal.simiptv.com:8001/live/MV/bhaskar/15466.ts
+#EXTINF:-1,(UK) True Movies +1
+http://portal.simiptv.com:8001/live/MV/bhaskar/15381.ts
+#EXTINF:-1,(UK) Travel Channel >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15467.ts
+#EXTINF:-1,(UK) TLC
+http://portal.simiptv.com:8001/live/MV/bhaskar/15468.ts
+#EXTINF:-1,(UK) STV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15385.ts
+#EXTINF:-1,(UK) Spike
+http://portal.simiptv.com:8001/live/MV/bhaskar/15472.ts
+#EXTINF:-1,Sky One-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15488.ts
+#EXTINF:-1,SKY LIVING (HD)-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15449.ts
+#EXTINF:-1,(UK) Sky Arts 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/15502.ts
+#EXTINF:-1,(UK) Sky 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/15473.ts
+#EXTINF:-1,(UK) Scuzz
+http://portal.simiptv.com:8001/live/MV/bhaskar/15389.ts
+#EXTINF:-1,UK | S4C
+http://portal.simiptv.com:8001/live/MV/bhaskar/15390.ts
+#EXTINF:-1,(UK) RT News >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15395.ts
+#EXTINF:-1,(UK) Really
+http://portal.simiptv.com:8001/live/MV/bhaskar/15505.ts
+#EXTINF:-1,(UK) Quest
+http://portal.simiptv.com:8001/live/MV/bhaskar/15508.ts
+#EXTINF:-1,UK | Pick TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15510.ts
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 5
+http://portal.simiptv.com:8001/live/MV/bhaskar/13285.ts
+#EXTINF:-1,(UK) Lifetime
+http://portal.simiptv.com:8001/live/MV/bhaskar/15526.ts
+#EXTINF:-1,(UK)  ITV 4 (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15530.ts
+#EXTINF:-1,(UK) ITV 3 (FHD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15531.ts
+#EXTINF:-1,UK | Irish TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15534.ts
+#EXTINF:-1,(UK) Home + >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15536.ts
+#EXTINF:-1,(UK) Home
+http://portal.simiptv.com:8001/live/MV/bhaskar/15408.ts
+#EXTINF:-1,UK | H2
+http://portal.simiptv.com:8001/live/MV/bhaskar/15538.ts
+#EXTINF:-1,(UK) Sky Cinema Family
+http://portal.simiptv.com:8001/live/MV/bhaskar/13287.ts
+#EXTINF:-1,(UK) Sky Cinema Select
+http://portal.simiptv.com:8001/live/MV/bhaskar/13282.ts
+#EXTINF:-1,(UK) Real Lives
+http://portal.simiptv.com:8001/live/MV/bhaskar/15506.ts
+#EXTINF:-1,UK : TV3 Plus 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/15462.ts
+#EXTINF:-1,TV3 >HD-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15463.ts
+#EXTINF:-1,(UK) True Movies 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/15465.ts
+#EXTINF:-1,(UK) SKY News >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15489.ts
+#EXTINF:-1,(UK) RTÉ2 >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15503.ts
+#EXTINF:-1,(UKI) RTE News Now
+http://portal.simiptv.com:8001/live/MV/bhaskar/15393.ts
+#EXTINF:-1,(UK) Nickelodeon >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15512.ts
+#EXTINF:-1,(UK) Nick Junior
+http://portal.simiptv.com:8001/live/MV/bhaskar/15513.ts
+#EXTINF:-1,(UK) MTV Music
+http://portal.simiptv.com:8001/live/MV/bhaskar/15517.ts
+#EXTINF:-1,(UK) MTV Hits
+http://portal.simiptv.com:8001/live/MV/bhaskar/15518.ts
+#EXTINF:-1,MTV Classic-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15402.ts
+#EXTINF:-1,(UK) MTV  +1
+http://portal.simiptv.com:8001/live/MV/bhaskar/15404.ts
+#EXTINF:-1,(UK) Movies 4 Men
+http://portal.simiptv.com:8001/live/MV/bhaskar/15519.ts
+#EXTINF:-1,(UK) Sky Cinema Premiere +1
+http://portal.simiptv.com:8001/live/MV/bhaskar/15520.ts
+#EXTINF:-1,London Live-UK
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,(UK) Disney XD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15527.ts
+#EXTINF:-1,(UK) ITV Encore (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15528.ts
+#EXTINF:-1,(UK)  ITV Be (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15529.ts
+#EXTINF:-1,(UK) ITV 2 (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15532.ts
+#EXTINF:-1,ITV 1 (HD)-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15533.ts
+#EXTINF:-1,(UK) SKY Fine Living (FHD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/22481.ts
+#EXTINF:-1,Gold HD_UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15540.ts
+#EXTINF:-1,(UK) Food Network (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15545.ts
+#EXTINF:-1,(UK) Film 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/15548.ts
+#EXTINF:-1,(UK) TCM Movies (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15383.ts
+#EXTINF:-1,Tiny Pop-(uk)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15382.ts
+#EXTINF:-1,MTV Dance-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15405.ts
+#EXTINF:-1,(UK) FOX News
+http://portal.simiptv.com:8001/live/MV/bhaskar/15542.ts
+#EXTINF:-1,(UK) FOX Crime
+http://portal.simiptv.com:8001/live/MV/bhaskar/15543.ts
+#EXTINF:-1,(UK) Five >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15547.ts
+#EXTINF:-1,(UK) Eden
+http://portal.simiptv.com:8001/live/MV/bhaskar/15413.ts
+#EXTINF:-1,(UK) Drama
+http://portal.simiptv.com:8001/live/MV/bhaskar/15555.ts
+#EXTINF:-1,(UK) Dmax
+http://portal.simiptv.com:8001/live/MV/bhaskar/15556.ts
+#EXTINF:-1,(UK) Disney Junior >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15559.ts
+#EXTINF:-1,UK) Discovery Turbo
+http://portal.simiptv.com:8001/live/MV/bhaskar/15561.ts
+#EXTINF:-1,(UK) Discovery History
+http://portal.simiptv.com:8001/live/MV/bhaskar/15565.ts
+#EXTINF:-1,(UK) Discovery Channel (FHD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15566.ts
+#EXTINF:-1,Dave (SD)-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15567.ts
+#EXTINF:-1,(UK) Comedy Central Xtra
+http://portal.simiptv.com:8001/live/MV/bhaskar/15569.ts
+#EXTINF:-1,Liverpool FC (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15525.ts
+#EXTINF:-1,(UK) Channel 5 (SD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15573.ts
+#EXTINF:-1,Channel 4 (SD/HD)-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15574.ts
+#EXTINF:-1,(UK) Challenge
+http://portal.simiptv.com:8001/live/MV/bhaskar/15418.ts
+#EXTINF:-1,(UK) Cbeebies
+http://portal.simiptv.com:8001/live/MV/bhaskar/15578.ts
+#EXTINF:-1,UK | CBBC
+http://portal.simiptv.com:8001/live/MV/bhaskar/15419.ts
+#EXTINF:-1,(UK) Cartoonito
+http://portal.simiptv.com:8001/live/MV/bhaskar/15579.ts
+#EXTINF:-1,(UK) Disney Channel >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15560.ts
+#EXTINF:-1,(UK) Discovery Shed (HD/SD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15562.ts
+#EXTINF:-1,(UK) Discovery Science (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15563.ts
+#EXTINF:-1,(UK) Crime & Investigation (FHD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15568.ts
+#EXTINF:-1,CNBC Europe-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15415.ts
+#EXTINF:-1,(UK) CBS Action (SD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15577.ts
+#EXTINF:-1,(UK) Cartoon Network
+http://portal.simiptv.com:8001/live/MV/bhaskar/15580.ts
+#EXTINF:-1,(UK) Motors TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15521.ts
+#EXTINF:-1,(UK) Bet
+http://portal.simiptv.com:8001/live/MV/bhaskar/15595.ts
+#EXTINF:-1,Box Nation HD-UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/14465.ts
+#EXTINF:-1,(UK) ROK TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15454.ts
+#EXTINF:-1,UK:WB MOVIES
+http://portal.simiptv.com:8001/live/MV/bhaskar/15594.ts
+#EXTINF:-1,(UK) PBS America
+http://portal.simiptv.com:8001/live/MV/bhaskar/15396.ts
+#EXTINF:-1,BT Sports 2 UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/21953.ts
+#EXTINF:-1,(UK) LOONEY TUNES FHD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21928.ts
+#EXTINF:-1,(UK) Box Office Movies 2 >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/13284.ts
+#EXTINF:-1,(UK) Quest Red /SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/22480.ts
+#EXTINF:-1,BBO Cinema (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/23696.ts
+#EXTINF:-1,BBC ONE (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/25915.ts
+#EXTINF:-1,---Welcome to All World Sports----
+http://portal.simiptv.com:8001/live/MV/bhaskar/14372.ts
+#EXTINF:-1,-----UK Sport | UK Sports-----
+http://portal.simiptv.com:8001/live/MV/bhaskar/14373.ts
+#EXTINF:-1,PPV EVENT ITV BOXOFFICE (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21702.ts
+#EXTINF:-1,Vip:Sport| ITV Box Office (uk)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21078.ts
+#EXTINF:-1,Sport-UK: PPV 1 (Live During Events Only)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21330.ts
+#EXTINF:-1,BT Sport 1 >HD< (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18598.ts
+#EXTINF:-1,BT Sport 2 >HD< (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18600.ts
+#EXTINF:-1,BT Sport 3 >HD< (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18601.ts
+#EXTINF:-1,BT Sport ESPN >FHD< (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18602.ts
+#EXTINF:-1,Eurosport 1 >HD<(UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15550.ts
+#EXTINF:-1,Sport |   Eurosport 2 (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15549.ts
+#EXTINF:-1,(UK) HORSE & COUNTRY (SP)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15407.ts
+#EXTINF:-1,Sport | Nautical Channel (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15398.ts
+#EXTINF:-1,PREMIER SPORTS (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7740.ts
+#EXTINF:-1,SkySp News (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14226.ts
+#EXTINF:-1,SkySp Arena HD (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15444.ts
+#EXTINF:-1,Sky Sports Action >HD> (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15446.ts
+#EXTINF:-1,Sky Sports Cricket >HD< (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15443.ts
+#EXTINF:-1,SkySp Football >HD< (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15441.ts
+#EXTINF:-1,SkySP Main Event > HD< (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15439.ts
+#EXTINF:-1,Premier League >HD> (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15437.ts
+#EXTINF:-1,Skysp MIX HD (UK).
+http://portal.simiptv.com:8001/live/MV/bhaskar/15438.ts
+#EXTINF:-1,SkySp Golf (UK)-HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15435.ts
+#EXTINF:-1,SkySp F1 > HD< (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18608.ts
+#EXTINF:-1,Sport | Encore Sport (Los Angeles)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16891.ts
+#EXTINF:-1,Sport | FightBox HD (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18597.ts
+#EXTINF:-1,-------INDIAN--SPORTS--------
+http://portal.simiptv.com:8001/live/MV/bhaskar/17880.ts
+#EXTINF:-1,Star Sports Select 1 (Full HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13437.ts
+#EXTINF:-1,Star Sports 2 >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/13438.ts
+#EXTINF:-1,Star Sports 1 HD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/8346.ts
+#EXTINF:-1,Sp_Star Sports 2 HD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/8347.ts
+#EXTINF:-1,Sony Ten 1 HD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14852.ts
+#EXTINF:-1,Sony TEN 2 HD  (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14854.ts
+#EXTINF:-1,Sony Ten 2  HD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13165.ts
+#EXTINF:-1,Sony Ten 3  (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14856.ts
+#EXTINF:-1,Neo Prime (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13822.ts
+#EXTINF:-1,Neo Sports (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13442.ts
+#EXTINF:-1,Sport | SONY SIX (IN).
+http://portal.simiptv.com:8001/live/MV/bhaskar/14849.ts
+#EXTINF:-1,SONY ESPN  >HD< (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14858.ts
+#EXTINF:-1,Sport:DSPORTS (HD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21819.ts
+#EXTINF:-1,Sport |  DD Sports (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19857.ts
+#EXTINF:-1,Sport | WILLOW CRICEKT HD (usa)
+http://portal.simiptv.com:8001/live/MV/bhaskar/9106.ts
+#EXTINF:-1,-----BEIN SPORT--AF--FR----
+http://portal.simiptv.com:8001/live/MV/bhaskar/9109.ts
+#EXTINF:-1,BeIN Sport 1 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16589.ts
+#EXTINF:-1,BeIN SPORTS 2 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16585.ts
+#EXTINF:-1,BeIN SPORTS 3 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16584.ts
+#EXTINF:-1,BeIN SPORTS 4 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16583.ts
+#EXTINF:-1,BeIN SPORTS 5 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16582.ts
+#EXTINF:-1,BeIN SPORTS 6 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16581.ts
+#EXTINF:-1,BeIN SPORTS 7 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16580.ts
+#EXTINF:-1,BeIN SPORTS 8 HD (AR).
+http://portal.simiptv.com:8001/live/MV/bhaskar/16579.ts
+#EXTINF:-1,BeIN Sorts 9 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16578.ts
+#EXTINF:-1,BeIN SPORTS 10 HD (AR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16588.ts
+#EXTINF:-1,Sport | BeIN Sport 11 HD (English)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17895.ts
+#EXTINF:-1,Sport | BeIN Sport 12 HD (ENGLISH)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17896.ts
+#EXTINF:-1,Sport | BeIN SPORTS 1 HD (FR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17892.ts
+#EXTINF:-1,Sport | BeIN Sport 2 HD (FR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17893.ts
+#EXTINF:-1,Sport | BeIN Sport 3 HD (FR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17894.ts
+#EXTINF:-1,Sport |:WWE Network (USA)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16624.ts
+#EXTINF:-1,>>>>>USA SPORTS<<<<<<
+http://portal.simiptv.com:8001/live/MV/bhaskar/18599.ts
+#EXTINF:-1,Sport |  MLB Network (US)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21080.ts
+#EXTINF:-1,Sport | NBC Sport FHD (US)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21329.ts
+#EXTINF:-1,FOX Sports 2 (USA)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18609.ts
+#EXTINF:-1,Sport | TSN 1 (US)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18592.ts
+#EXTINF:-1,Sport | TSN 2 (US)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18593.ts
+#EXTINF:-1,TSN 3 (US)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18594.ts
+#EXTINF:-1,Sport | TSN 4 (US)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18595.ts
+#EXTINF:-1,Sport | TSN 5 (US)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18596.ts
+#EXTINF:-1,Sport |  NFL Now HD (USA)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19639.ts
+#EXTINF:-1,Sport |  Viasat Sports (USA)
+http://portal.simiptv.com:8001/live/MV/bhaskar/20218.ts
+#EXTINF:-1,Sport | espn HD  (US)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19638.ts
+#EXTINF:-1,<<<<3PM ELP<<<SPORTS<<<
+http://portal.simiptv.com:8001/live/MV/bhaskar/18607.ts
+#EXTINF:-1,Sport |  Arena Sport 1 Serbian
+http://portal.simiptv.com:8001/live/MV/bhaskar/18603.ts
+#EXTINF:-1,Sport |  Arena Sport 2 Serbian
+http://portal.simiptv.com:8001/live/MV/bhaskar/18604.ts
+#EXTINF:-1,Sport |  Arena Sport 3 Serbian
+http://portal.simiptv.com:8001/live/MV/bhaskar/18605.ts
+#EXTINF:-1,Sport |  Arena Sport 4 Serbian
+http://portal.simiptv.com:8001/live/MV/bhaskar/18606.ts
+#EXTINF:-1,Sport |  Arena Sport 1 HR
+http://portal.simiptv.com:8001/live/MV/bhaskar/19952.ts
+#EXTINF:-1,Sport |  Arena Sport 2 HR
+http://portal.simiptv.com:8001/live/MV/bhaskar/19953.ts
+#EXTINF:-1,Arena Sport 3 (HR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19954.ts
+#EXTINF:-1,Arena Sport 4 (HR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19955.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://portal.simiptv.com:8001/live/MV/bhaskar/19956.ts
+#EXTINF:-1,>>>> Netherlands Sport <<<<<
+http://portal.simiptv.com:8001/live/MV/bhaskar/19542.ts
+#EXTINF:-1,Sport | FOX Sports 1 (NL)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19543.ts
+#EXTINF:-1,Sport |  Fox Sports 2 HD (NL)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19544.ts
+#EXTINF:-1,Sport |  Fox Sports 3 HD (NL)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19545.ts
+#EXTINF:-1,Sport |  Fox Sports 4 HD (NL)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19546.ts
+#EXTINF:-1,Sport |  Fox Sports 5 HD (NL)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19597.ts
+#EXTINF:-1,Sport |  Fox Sports 6 HD (NL)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19598.ts
+#EXTINF:-1,Sport |  Abu Dhabi Sports 1 ( UAE)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19625.ts
+#EXTINF:-1,Sport |  Abu Dhabi Sports 2 (UAE)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19626.ts
+#EXTINF:-1,Sport | OLIMPIC CHANNEL FHD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Sport |  Dubai-Sports (UAE )
+http://portal.simiptv.com:8001/live/MV/bhaskar/19632.ts
+#EXTINF:-1,Sport | BURSASPORT TV (TR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19635.ts
+#EXTINF:-1,SPORT | TRT Spor (TR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19636.ts
+#EXTINF:-1,Sport |   Real Madrid TV (ES)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19637.ts
+#EXTINF:-1,Sport |  PXSports HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19863.ts
+#EXTINF:-1,Sport |  Sport Klub  HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19951.ts
+#EXTINF:-1,Sport |  Sport Klub 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19948.ts
+#EXTINF:-1,Sport |  Sport Klub 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19949.ts
+#EXTINF:-1,Sport |  Sport Klub 3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19950.ts
+#EXTINF:-1,>>>>> Encore Sport<<<<<<
+http://portal.simiptv.com:8001/live/MV/bhaskar/20220.ts
+#EXTINF:-1,Sport |  Encore Sport ( Washington)
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,Sport |  Encore Sport (Bay Area)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19631.ts
+#EXTINF:-1,Sport |  Encore Sport (Mountain)
+http://portal.simiptv.com:8001/live/MV/bhaskar/20215.ts
+#EXTINF:-1,Sport | Encore Sport (Arizona)
+http://portal.simiptv.com:8001/live/MV/bhaskar/19628.ts
+#EXTINF:-1,Sport |  Encore Sport (Oregon)
+http://portal.simiptv.com:8001/live/MV/bhaskar/20216.ts
+#EXTINF:-1,Sport |  Sevilla FC(Spain)
+http://portal.simiptv.com:8001/live/MV/bhaskar/20219.ts
+#EXTINF:-1,SP_fight time HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21030.ts
+#EXTINF:-1,SP_ Fight Channel 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21031.ts
+#EXTINF:-1,Vip:Sport |  Fight Channel 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21032.ts
+#EXTINF:-1,Vip:Sport |  Fight Channel 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21033.ts
+#EXTINF:-1,Sport | Geo Super (PK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16629.ts
+#EXTINF:-1,Sport |  At The Races (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15602.ts
+#EXTINF:-1,Sp_Sony Six HD (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/13439.ts
+#EXTINF:-1,Sp_Sony ESPN >FHD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/13440.ts
+#EXTINF:-1,Star Sport 2 (IN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/7970.ts
+#EXTINF:-1,Sport |  Racing (UK) SD/HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15507.ts
+#EXTINF:-1,Sport |  Manchester United FC (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15523.ts
+#EXTINF:-1,Sport |  Eir Sport 2 (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15552.ts
+#EXTINF:-1,Sport |  Eir Sport 1 (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15553.ts
+#EXTINF:-1,****Kids TV****
+http://portal.simiptv.com:8001/live/MV/bhaskar/9103.ts
+#EXTINF:-1,Kidz:PAW Patrol
+http://portal.simiptv.com:8001/live/MV/bhaskar/24238.ts
+#EXTINF:-1,Kidz:Nick Sonic (Hindi)
+http://portal.simiptv.com:8001/live/MV/bhaskar/24862.ts
+#EXTINF:-1,KID:wow_kids HINDI
+http://portal.simiptv.com:8001/live/MV/bhaskar/20495.ts
+#EXTINF:-1,KIDS:Dadimaa Ki Kahaniya
+http://portal.simiptv.com:8001/live/MV/bhaskar/22330.ts
+#EXTINF:-1,KIDS@The simpsons
+http://portal.simiptv.com:8001/live/MV/bhaskar/17934.ts
+#EXTINF:-1,KIDS@ Animation Movies
+http://portal.simiptv.com:8001/live/MV/bhaskar/17363.ts
+#EXTINF:-1,KIDS@classic Cartoons
+http://portal.simiptv.com:8001/live/MV/bhaskar/16885.ts
+#EXTINF:-1,KIDS@ Disney's Cartoon Classics HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/17007.ts
+#EXTINF:-1,Simiptv:24x7 MOTU PATLU HINDI
+http://portal.simiptv.com:8001/live/MV/bhaskar/16096.ts
+#EXTINF:-1,KIDS@ BOX OFFICE MOVIES HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16292.ts
+#EXTINF:-1,KIDS@Peppa Pig Tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/16293.ts
+#EXTINF:-1,KIDS@ HINDI ANIMATED MOVIES
+http://portal.simiptv.com:8001/live/MV/bhaskar/16294.ts
+#EXTINF:-1,KIDS@ Mr Bean Best Cartoons HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16523.ts
+#EXTINF:-1,KIDS@Talking Tom Shorts - LIVE 24/7
+http://portal.simiptv.com:8001/live/MV/bhaskar/16649.ts
+#EXTINF:-1,KIDZ:Oscar's Oasis HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16648.ts
+#EXTINF:-1,KIDS@ SpongeBob SquarePants
+http://portal.simiptv.com:8001/live/MV/bhaskar/17933.ts
+#EXTINF:-1,Kids@ Kids Special
+http://portal.simiptv.com:8001/live/MV/bhaskar/19540.ts
+#EXTINF:-1,Kids@Songs To Put A Baby To Sleep
+http://portal.simiptv.com:8001/live/MV/bhaskar/19541.ts
+#EXTINF:-1,KIDS@The Pink Panther
+http://portal.simiptv.com:8001/live/MV/bhaskar/18274.ts
+#EXTINF:-1,Kidz:Sony Yay Hindi
+http://portal.simiptv.com:8001/live/MV/bhaskar/24861.ts
+#EXTINF:-1,KIDZ:SKY Disney Movies (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15558.ts
+#EXTINF:-1,####USA####
+http://portal.simiptv.com:8001/live/MV/bhaskar/16884.ts
+#EXTINF:-1,USA_ A&E HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26148.ts
+#EXTINF:-1,USA_ ABC HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26147.ts
+#EXTINF:-1,USA_ AFN MOVIE
+http://portal.simiptv.com:8001/live/MV/bhaskar/26146.ts
+#EXTINF:-1,USA_ AFN NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/26145.ts
+#EXTINF:-1,USA_ AFN PRIME ATLANTIC
+http://portal.simiptv.com:8001/live/MV/bhaskar/26144.ts
+#EXTINF:-1,USA_ AFN PRIME PACIFIC
+http://portal.simiptv.com:8001/live/MV/bhaskar/26143.ts
+#EXTINF:-1,USA_ AFN PULSE
+http://portal.simiptv.com:8001/live/MV/bhaskar/26142.ts
+#EXTINF:-1,USA_ AFN SPECTRUM
+http://portal.simiptv.com:8001/live/MV/bhaskar/26141.ts
+#EXTINF:-1,USA_ AFN SPORTS
+http://portal.simiptv.com:8001/live/MV/bhaskar/26140.ts
+#EXTINF:-1,USA_ AFN SPORTS 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/26139.ts
+#EXTINF:-1,USA_ AMC HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26138.ts
+#EXTINF:-1,USA_ Animal Planet HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26137.ts
+#EXTINF:-1,USA_ BRAVO
+http://portal.simiptv.com:8001/live/MV/bhaskar/26136.ts
+#EXTINF:-1,USA_ BRAVO HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26135.ts
+#EXTINF:-1,USA_ CBS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26134.ts
+#EXTINF:-1,USA_ CINEMAX HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26133.ts
+#EXTINF:-1,USA_ Cinemax MoreMax HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26132.ts
+#EXTINF:-1,USA_ Cinemax ThrillerMax HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26131.ts
+#EXTINF:-1,USA_ CNBC-US (nbc at 3pM
+http://portal.simiptv.com:8001/live/MV/bhaskar/26130.ts
+#EXTINF:-1,USA_ CNN HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26129.ts
+#EXTINF:-1,USA_ Comedy Central
+http://portal.simiptv.com:8001/live/MV/bhaskar/26128.ts
+#EXTINF:-1,USA_ CPAC
+http://portal.simiptv.com:8001/live/MV/bhaskar/26127.ts
+#EXTINF:-1,USA_ CW HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26126.ts
+#EXTINF:-1,USA_ Discovery HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26125.ts
+#EXTINF:-1,USA_ DISCOVERY SCIENCE
+http://portal.simiptv.com:8001/live/MV/bhaskar/26124.ts
+#EXTINF:-1,USA_ DIY NETWORK HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26123.ts
+#EXTINF:-1,USA_ E!
+http://portal.simiptv.com:8001/live/MV/bhaskar/26122.ts
+#EXTINF:-1,USA_ ESPN
+http://portal.simiptv.com:8001/live/MV/bhaskar/26121.ts
+#EXTINF:-1,USA_ ESPN 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/26120.ts
+#EXTINF:-1,USA_ Fight Network
+http://portal.simiptv.com:8001/live/MV/bhaskar/26119.ts
+#EXTINF:-1,USA_ Food Network HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26118.ts
+#EXTINF:-1,USA_ Fox
+http://portal.simiptv.com:8001/live/MV/bhaskar/26117.ts
+#EXTINF:-1,USA_ FOX 5 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26116.ts
+#EXTINF:-1,USA_ Fox News HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26115.ts
+#EXTINF:-1,USA_ Fox Sports 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26114.ts
+#EXTINF:-1,USA_ Fox Sports 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26113.ts
+#EXTINF:-1,USA_ FX HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26112.ts
+#EXTINF:-1,USA_ FXX
+http://portal.simiptv.com:8001/live/MV/bhaskar/26111.ts
+#EXTINF:-1,USA_ Golf HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26110.ts
+#EXTINF:-1,USA_ H2
+http://portal.simiptv.com:8001/live/MV/bhaskar/26109.ts
+#EXTINF:-1,USA_ HallMark HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26108.ts
+#EXTINF:-1,USA_ HBO
+http://portal.simiptv.com:8001/live/MV/bhaskar/26107.ts
+#EXTINF:-1,USA_ HBO Comedy (nbc at 3pm)
+http://portal.simiptv.com:8001/live/MV/bhaskar/26106.ts
+#EXTINF:-1,USA_ HBO Family
+http://portal.simiptv.com:8001/live/MV/bhaskar/26105.ts
+#EXTINF:-1,USA_ HBO HD 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/26104.ts
+#EXTINF:-1,USA_ HBO HD 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/26103.ts
+#EXTINF:-1,USA_ HBO Signature
+http://portal.simiptv.com:8001/live/MV/bhaskar/26102.ts
+#EXTINF:-1,USA_ HBO Zone
+http://portal.simiptv.com:8001/live/MV/bhaskar/26101.ts
+#EXTINF:-1,USA_ HGT
+http://portal.simiptv.com:8001/live/MV/bhaskar/26100.ts
+#EXTINF:-1,USA_ HISTORY
+http://portal.simiptv.com:8001/live/MV/bhaskar/26099.ts
+#EXTINF:-1,USA_ Investigation Discovery HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26098.ts
+#EXTINF:-1,USA_ LIFETIME
+http://portal.simiptv.com:8001/live/MV/bhaskar/26097.ts
+#EXTINF:-1,USA_ NASA TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26096.ts
+#EXTINF:-1,USA_ National Geographic
+http://portal.simiptv.com:8001/live/MV/bhaskar/26095.ts
+#EXTINF:-1,USA_ NBA HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26094.ts
+#EXTINF:-1,USA_ NBC
+http://portal.simiptv.com:8001/live/MV/bhaskar/26093.ts
+#EXTINF:-1,USA_ NBC GOLF
+http://portal.simiptv.com:8001/live/MV/bhaskar/26092.ts
+#EXTINF:-1,USA_ NBC Sports Network HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26091.ts
+#EXTINF:-1,USA_ NFL NETWORK
+http://portal.simiptv.com:8001/live/MV/bhaskar/26090.ts
+#EXTINF:-1,USA_ NHL Network (nbc goalrush at 3pm)
+http://portal.simiptv.com:8001/live/MV/bhaskar/26089.ts
+#EXTINF:-1,USA_ PAC 12 WASHINGTON HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26088.ts
+#EXTINF:-1,USA_ PBS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26087.ts
+#EXTINF:-1,USA_ Showtime
+http://portal.simiptv.com:8001/live/MV/bhaskar/26086.ts
+#EXTINF:-1,USA_ ShowTime 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26085.ts
+#EXTINF:-1,USA_ SPIKE HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26084.ts
+#EXTINF:-1,USA_ Sports Net 360 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26083.ts
+#EXTINF:-1,USA_ Sports Net One HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26082.ts
+#EXTINF:-1,USA_ Sports Net Ontario HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26081.ts
+#EXTINF:-1,USA_ Sports Net World HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26080.ts
+#EXTINF:-1,USA_ Starz Cinema HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26079.ts
+#EXTINF:-1,USA_ STARZ HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26078.ts
+#EXTINF:-1,USA_ SYFY HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26077.ts
+#EXTINF:-1,USA_ TBS
+http://portal.simiptv.com:8001/live/MV/bhaskar/26076.ts
+#EXTINF:-1,USA_ Tennis Channel HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26075.ts
+#EXTINF:-1,USA_ TLC HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26074.ts
+#EXTINF:-1,USA_ TNT HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26073.ts
+#EXTINF:-1,USA_ TRU TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26072.ts
+#EXTINF:-1,USA_ UNIVERSAL HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26071.ts
+#EXTINF:-1,USA_ USA NETWORK
+http://portal.simiptv.com:8001/live/MV/bhaskar/26070.ts
+#EXTINF:-1,USA_ WWE Network HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/26069.ts
+#EXTINF:-1,****PAKISTAN TV****
+http://portal.simiptv.com:8001/live/MV/bhaskar/8301.ts
+#EXTINF:-1,PK:A PLUS (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16537.ts
+#EXTINF:-1,PK:ARY NEWS (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14962.ts
+#EXTINF:-1,PK:ARY DIGITAL UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/14961.ts
+#EXTINF:-1,PK:HUM TV UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/16473.ts
+#EXTINF:-1,PK:PRIM TV UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15017.ts
+#EXTINF:-1,PK:URDU 1 UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/16536.ts
+#EXTINF:-1,PK:HUM TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14964.ts
+#EXTINF:-1,PK:HUM SITARAY HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16118.ts
+#EXTINF:-1,PK:HUM WORLD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16474.ts
+#EXTINF:-1,PK:SUBRANG USA
+http://portal.simiptv.com:8001/live/MV/bhaskar/16123.ts
+#EXTINF:-1,PK:PTV GLOBAL
+http://portal.simiptv.com:8001/live/MV/bhaskar/15019.ts
+#EXTINF:-1,PK:PTV HOME
+http://portal.simiptv.com:8001/live/MV/bhaskar/13588.ts
+#EXTINF:-1,PK:Filmax HD
+https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=141&extension=m3u8
+#EXTINF:-1,PK:PEACE TV URDU
+http://portal.simiptv.com:8001/live/MV/bhaskar/14998.ts
+#EXTINF:-1,PK@PUNJABI STAGE DRAMA
+http://portal.simiptv.com:8001/live/MV/bhaskar/15008.ts
+#EXTINF:-1,PK:ARY ZINDAGI
+http://portal.simiptv.com:8001/live/MV/bhaskar/14963.ts
+#EXTINF:-1,PK:SEE TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15012.ts
+#EXTINF:-1,PK:TV ONE
+http://portal.simiptv.com:8001/live/MV/bhaskar/14996.ts
+#EXTINF:-1,PK:ATV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14971.ts
+#EXTINF:-1,PK:AAJ News
+http://portal.simiptv.com:8001/live/MV/bhaskar/14967.ts
+#EXTINF:-1,PK:@ Pakistani Movies
+http://portal.simiptv.com:8001/live/MV/bhaskar/15007.ts
+#EXTINF:-1,PK:FILM WORLD HD
+https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=132&extension=m3u8
+#EXTINF:-1,KIDS@ Hindi Animation MOVIES
+http://portal.simiptv.com:8001/live/MV/bhaskar/15000.ts
+#EXTINF:-1,PK:FILMAZIA HD
+https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=123&extension=m3u8
+#EXTINF:-1,PK:HUM MASALA (UK)-y
+http://portal.simiptv.com:8001/live/MV/bhaskar/14966.ts
+#EXTINF:-1,PK:STEGE DRAMA
+http://portal.simiptv.com:8001/live/MV/bhaskar/15025.ts
+#EXTINF:-1,Sport | PTV SPORTS (PK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/14956.ts
+#EXTINF:-1,PK:ARY NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/15367.ts
+#EXTINF:-1,PK:NEWS ONE
+http://portal.simiptv.com:8001/live/MV/bhaskar/14915.ts
+#EXTINF:-1,PK:SAMAA NEWS (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15020.ts
+#EXTINF:-1,PK:92 NEWS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/14976.ts
+#EXTINF:-1,PK:CHANNEL 24 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/14977.ts
+#EXTINF:-1,PK:AJJ NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/15021.ts
+#EXTINF:-1,PK:EXPRESS NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/15368.ts
+#EXTINF:-1,PK:BOL NEWS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/14989.ts
+#EXTINF:-1,PK:LAHOR NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/15023.ts
+#EXTINF:-1,PK:SUCH News
+https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=152&extension=m3u8
+#EXTINF:-1,PK:7 NEWS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/14954.ts
+#EXTINF:-1,PK:DUNYA NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/14972.ts
+#EXTINF:-1,PK:DWAN NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/14974.ts
+#EXTINF:-1,PK:WAQT NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/15027.ts
+#EXTINF:-1,PK:GEO NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/14958.ts
+#EXTINF:-1,PK:GEO TEEZ
+http://portal.simiptv.com:8001/live/MV/bhaskar/16091.ts
+#EXTINF:-1,PK:PTV News
+http://portal.simiptv.com:8001/live/MV/bhaskar/14991.ts
+#EXTINF:-1,PK:PUNJAB TV
+https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=153&extension=m3u8
+#EXTINF:-1,PK:k21 news (Main)
+http://stream.tapmad.com:1935/pitvlive/k213.stream/chunklist.m3u8
+#EXTINF:-1,PK:APNA CHANNEL
+http://portal.simiptv.com:8001/live/MV/bhaskar/14970.ts
+#EXTINF:-1,PK:MAKKAH TV LIVE
+http://portal.simiptv.com:8001/live/MV/bhaskar/16122.ts
+#EXTINF:-1,PK:MADENA TV LIVE
+http://portal.simiptv.com:8001/live/MV/bhaskar/14986.ts
+#EXTINF:-1,PK:PAECE TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14902.ts
+#EXTINF:-1,PK:Q TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/16090.ts
+#EXTINF:-1,PK:CITY 42
+http://portal.simiptv.com:8001/live/MV/bhaskar/14981.ts
+#EXTINF:-1,PK:EXPRESS ENT
+http://portal.simiptv.com:8001/live/MV/bhaskar/14975.ts
+#EXTINF:-1,PK:Noor TV (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15003.ts
+#EXTINF:-1,PK:MEHRAN TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14995.ts
+#EXTINF:-1,PK:WASEB
+http://portal.simiptv.com:8001/live/MV/bhaskar/15010.ts
+#EXTINF:-1,PK:NEXT MUSIC
+http://portal.simiptv.com:8001/live/MV/bhaskar/17434.ts
+#EXTINF:-1,PK:8 XM HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15958.ts
+#EXTINF:-1,PK:Jhumar TV(Main)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15959.ts
+#EXTINF:-1,PASHTO @ MUSIC NON-STOP
+http://portal.simiptv.com:8001/live/MV/bhaskar/17784.ts
+#EXTINF:-1,PK: Peace Tv (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17779.ts
+#EXTINF:-1,PK:AVT KHYBER
+http://portal.simiptv.com:8001/live/MV/bhaskar/17780.ts
+#EXTINF:-1,PK:ARUJ TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17782.ts
+#EXTINF:-1,PK:Jwand TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17785.ts
+#EXTINF:-1,PK:KHYBER NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/17781.ts
+#EXTINF:-1,AFG:Shamshad TV,
+http://portal.simiptv.com:8001/live/MV/bhaskar/14921.ts
+#EXTINF:-1,AFG:LEMAR TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/14916.ts
+#EXTINF:-1,AFG:TOLO TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15973.ts
+#EXTINF:-1,AFG:Zhwandoon TV (Main)
+http://173.208.166.178/zhwandoon_tv_live-ca76ca2c8763fuc664be7c2df49a4e29yyy555/tracks-v1a1/index.m3u8
+#EXTINF:-1,AFG:HEWAD TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17937.ts
+#EXTINF:-1,AFG:KHURSHID TV (Main)
+http://173.208.166.178/khurshid_tv_live-ca7a6poa28b763664be7c2df49a4e888555/tracks-v1a1/index.m3u8
+#EXTINF:-1,AFG:MAIWAND TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15952.ts
+#EXTINF:-1,AFG:AFGHAN JAVAN
+http://portal.simiptv.com:8001/live/MV/bhaskar/14931.ts
+#EXTINF:-1,AFG:RTA
+http://portal.simiptv.com:8001/live/MV/bhaskar/14922.ts
+#EXTINF:-1,AFG:PAYAME AFGHAN
+http://portal.simiptv.com:8001/live/MV/bhaskar/14934.ts
+#EXTINF:-1,AFG:AMC MUSIC (Main)
+http://173.208.166.178:80/amc_tv_live-1c104zxcvb123a3b6599d1935f99f6e409d/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AFG:TUTI TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/14920.ts
+#EXTINF:-1,AFG:ATN AFGHAN
+http://portal.simiptv.com:8001/live/MV/bhaskar/16659.ts
+#EXTINF:-1,AFG:ARYANA
+http://portal.simiptv.com:8001/live/MV/bhaskar/14816.ts
+#EXTINF:-1,AFG:NAWEEN TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14943.ts
+#EXTINF:-1,AFG:AFGHAN THRATRE
+http://portal.simiptv.com:8001/live/MV/bhaskar/14945.ts
+#EXTINF:-1,AFG:WATAN NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/15967.ts
+#EXTINF:-1,AFG:AREZO NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/14936.ts
+#EXTINF:-1,AFG:TULHA NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/14813.ts
+#EXTINF:-1,AFG:IMAN TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14946.ts
+#EXTINF:-1,AFG:KABUL TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14731.ts
+#EXTINF:-1,AFG:KAYHAN TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14929.ts
+#EXTINF:-1,AFG:HAZARA WORLD TV
+https://cdn2.mjunoon.tv:25463/streaming/clients_live.php?username=9R04xsGMh7&password=QqPWRGcLj7&stream=140&extension=m3u8
+#EXTINF:-1,AFG:MITRA
+http://portal.simiptv.com:8001/live/MV/bhaskar/14944.ts
+#EXTINF:-1,AFG:RAH E FARDA
+http://portal.simiptv.com:8001/live/MV/bhaskar/14932.ts
+#EXTINF:-1,GUJ:GOPINATH TEMPEL
+http://portal.simiptv.com:8001/live/MV/bhaskar/22479.ts
+#EXTINF:-1,GUJ:MITRA NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/21930.ts
+#EXTINF:-1,GUJ: COLORS GUJARATI HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/12311.ts
+#EXTINF:-1,GUJ:ABP NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/17773.ts
+#EXTINF:-1,GUJ: ETV NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/12310.ts
+#EXTINF:-1,GUJ:NEWS18 GUJARATI
+http://portal.simiptv.com:8001/live/MV/bhaskar/24233.ts
+#EXTINF:-1,GUJ: TV9 GUJARATI HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/12307.ts
+#EXTINF:-1,GUJ:ZEE TV GUJARATI NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/19957.ts
+#EXTINF:-1,GUJ: VTV NEWS TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/12306.ts
+#EXTINF:-1,GUJ: Gujrati movies HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16099.ts
+#EXTINF:-1,GUJ:Lakshya TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16110.ts
+#EXTINF:-1,GUJ:sandesh news
+http://portal.simiptv.com:8001/live/MV/bhaskar/16129.ts
+#EXTINF:-1,GUJ:DD GIRNAR
+http://portal.simiptv.com:8001/live/MV/bhaskar/25904.ts
+#EXTINF:-1,GUJ: SOMNATH TEMPLE
+http://portal.simiptv.com:8001/live/MV/bhaskar/25860.ts
+#EXTINF:-1,GUJ:GSTV NEWS (GUJARAT SAMACHAR)
+http://portal.simiptv.com:8001/live/MV/bhaskar/20478.ts
+#EXTINF:-1,GUJ:gujarati bhajan
+http://portal.simiptv.com:8001/live/MV/bhaskar/16130.ts
+#EXTINF:-1,GUJ:SHREE SWAMINARAYAN TEMPLE-(STANMORE)
+http://portal.simiptv.com:8001/live/MV/bhaskar/17056.ts
+#EXTINF:-1,GUJ:SHREE SWAMINARAYAN TEMPLE-(BHUJ)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16475.ts
+#EXTINF:-1,GUJ:SANSKRUTI TV LIVE
+http://portal.simiptv.com:8001/live/MV/bhaskar/16661.ts
+#EXTINF:-1,GUJ:(YP):Garv Shri Swaminarayan
+http://portal.simiptv.com:8001/live/MV/bhaskar/20210.ts
+#EXTINF:-1,GUJ:Bhuj Mandir Ghanshyam Maharaj Darshan
+http://portal.simiptv.com:8001/live/MV/bhaskar/17055.ts
+#EXTINF:-1,GUJ:gujarati natak
+http://portal.simiptv.com:8001/live/MV/bhaskar/16296.ts
+#EXTINF:-1,GUJ:CNBC BAZAAR GUJRATI
+http://portal.simiptv.com:8001/live/MV/bhaskar/12312.ts
+#EXTINF:-1,TMP:SHREE ISKCON TEMPLE JUHU
+http://portal.simiptv.com:8001/live/MV/bhaskar/20467.ts
+#EXTINF:-1,GUJ:Sadvidya Tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/16702.ts
+#EXTINF:-1,GUJ:VEDIC TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26258.ts
+#EXTINF:-1,GUJ:SANSKAR TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26418.ts
+#EXTINF:-1,**** Bangladesh TV ****
+http://portal.simiptv.com:8001/live/MV/bhaskar/8298.ts
+#EXTINF:-1,BD: ATN BANGLA UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/14879.ts
+#EXTINF:-1,BD:NTV Europe (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15038.ts
+#EXTINF:-1,BD:STAR JALSHA >uk<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15048.ts
+#EXTINF:-1,BD:ZEE BANGLA UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/15046.ts
+#EXTINF:-1,BDL:Channel S UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/26396.ts
+#EXTINF:-1,BD:CHANNEL UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/14878.ts
+#EXTINF:-1,BD:TV ONE UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/16555.ts
+#EXTINF:-1,BDL:NTV Europe
+http://portal.simiptv.com:8001/live/MV/bhaskar/26377.ts
+#EXTINF:-1,BDL:ON TV(UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/26391.ts
+#EXTINF:-1,BDL:TVoneUK
+http://portal.simiptv.com:8001/live/MV/bhaskar/26368.ts
+#EXTINF:-1,BDL:ATN Bangla
+http://portal.simiptv.com:8001/live/MV/bhaskar/26408.ts
+#EXTINF:-1,BD:ATN BANGLA BD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16577.ts
+#EXTINF:-1,BDL:ATN Islamic TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26407.ts
+#EXTINF:-1,BD:ATN ISLAMIC
+http://portal.simiptv.com:8001/live/MV/bhaskar/16576.ts
+#EXTINF:-1,BD:ATN NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/16573.ts
+#EXTINF:-1,BDL:ATN News
+http://portal.simiptv.com:8001/live/MV/bhaskar/26405.ts
+#EXTINF:-1,BDL:ATN Music
+http://portal.simiptv.com:8001/live/MV/bhaskar/26406.ts
+#EXTINF:-1,BANGALADESH Movies @ Full HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/17932.ts
+#EXTINF:-1,BD; Bangla Cinema FHD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19607.ts
+#EXTINF:-1,BD:Aamar Bangla
+http://portal.simiptv.com:8001/live/MV/bhaskar/16574.ts
+#EXTINF:-1,BD:ASIAN TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/23701.ts
+#EXTINF:-1,BD: ABP Ananda
+http://portal.simiptv.com:8001/live/MV/bhaskar/19858.ts
+#EXTINF:-1,BD:ABP BANGAL
+http://bengaliabp-lh.akamaihd.net/i/abpbanglanew_1@192108/index_300_av-b.m3u8
+#EXTINF:-1,BD:BANGLA VISION
+http://portal.simiptv.com:8001/live/MV/bhaskar/15037.ts
+#EXTINF:-1,BD:BTV WORLD
+http://portal.simiptv.com:8001/live/MV/bhaskar/15051.ts
+#EXTINF:-1,BD:CHANNEL 9
+http://portal.simiptv.com:8001/live/MV/bhaskar/15042.ts
+#EXTINF:-1,BD: CNN IBN N
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-p.m3u8
+#EXTINF:-1,BD:MOHONA TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/14887.ts
+#EXTINF:-1,BD:G TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/16093.ts
+#EXTINF:-1,BD:DESH TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15041.ts
+#EXTINF:-1,BD:Gazi tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/15049.ts
+#EXTINF:-1,Sony AATH (BD)
+http://portal.simiptv.com:8001/live/MV/bhaskar/15045.ts
+#EXTINF:-1,BD:MY TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15039.ts
+#EXTINF:-1,BD:SOMOY NEWS TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/15040.ts
+#EXTINF:-1,BD:JALSA MOVIES >HD<
+http://portal.simiptv.com:8001/live/MV/bhaskar/15043.ts
+#EXTINF:-1,BD::24 GHANTA
+http://portal.simiptv.com:8001/live/MV/bhaskar/16551.ts
+#EXTINF:-1,BD::JALSHA MOVIES
+http://portal.simiptv.com:8001/live/MV/bhaskar/16549.ts
+#EXTINF:-1,BD:Bangla tv UK
+http://portal.simiptv.com:8001/live/MV/bhaskar/16572.ts
+#EXTINF:-1,BD:BOISAKHI TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/16571.ts
+#EXTINF:-1,BD:CHANNEL 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/16570.ts
+#EXTINF:-1,BD:Channel 52
+http://portal.simiptv.com:8001/live/MV/bhaskar/16554.ts
+#EXTINF:-1,BD:CHANNEL I
+http://portal.simiptv.com:8001/live/MV/bhaskar/16553.ts
+#EXTINF:-1,BDL:CHANNEL S (UK)
+http://portal.simiptv.com:8001/live/MV/bhaskar/16569.ts
+#EXTINF:-1,BD:DBC NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/16568.ts
+#EXTINF:-1,BD:DEEPTO TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/16567.ts
+#EXTINF:-1,BD:Ekattor tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/16566.ts
+#EXTINF:-1,BD:EKUSHEY TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/16565.ts
+#EXTINF:-1,BD:Gaan Bangla
+http://portal.simiptv.com:8001/live/MV/bhaskar/16564.ts
+#EXTINF:-1,BD:ITV Bangla Movie
+http://portal.simiptv.com:8001/live/MV/bhaskar/16563.ts
+#EXTINF:-1,BD:Jamuna tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/16562.ts
+#EXTINF:-1,BD:MOVIE BANGLA
+http://portal.simiptv.com:8001/live/MV/bhaskar/16561.ts
+#EXTINF:-1,BD:My cinema tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/16575.ts
+#EXTINF:-1,BD:NEWS 24 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16560.ts
+#EXTINF:-1,BD:Peace tv Bangla
+http://portal.simiptv.com:8001/live/MV/bhaskar/16559.ts
+#EXTINF:-1,BD:RTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/16558.ts
+#EXTINF:-1,BD:RTV MUSIC
+http://portal.simiptv.com:8001/live/MV/bhaskar/16546.ts
+#EXTINF:-1,BD:Rupashi bangla
+http://portal.simiptv.com:8001/live/MV/bhaskar/16545.ts
+#EXTINF:-1,BD:SA TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/16557.ts
+#EXTINF:-1,BD:TIME TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/16556.ts
+#EXTINF:-1,BD:ZEE BANGLA BD
+http://198.144.158.55:8080/bd_zee_bangali/index.m3u8
+#EXTINF:-1,BD:ZEE BANGLA Cinema HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/16543.ts
+#EXTINF:-1,BD: CHANNEL 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/16526.ts
+#EXTINF:-1,BD::DHOOM MUSIC
+http://portal.simiptv.com:8001/live/MV/bhaskar/16550.ts
+#EXTINF:-1,BD:SANGEET BANGLA
+http://portal.simiptv.com:8001/live/MV/bhaskar/16548.ts
+#EXTINF:-1,bangla IQRA BANGLA
+http://portal.simiptv.com:8001/live/MV/bhaskar/16547.ts
+#EXTINF:-1,BDL: My Cinema
+http://portal.simiptv.com:8001/live/MV/bhaskar/26381.ts
+#EXTINF:-1,BDL:Al Dawah TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26411.ts
+#EXTINF:-1,BDL:Ananda TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26410.ts
+#EXTINF:-1,BDL:Asian TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26409.ts
+#EXTINF:-1,BDL:BanglaTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26404.ts
+#EXTINF:-1,BDL:Banglavision
+http://portal.simiptv.com:8001/live/MV/bhaskar/26403.ts
+#EXTINF:-1,BDL:BijoyTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26402.ts
+#EXTINF:-1,BDL:BTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26400.ts
+#EXTINF:-1,BDL:BTV World
+http://portal.simiptv.com:8001/live/MV/bhaskar/26399.ts
+#EXTINF:-1,BDL:Channel 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/26395.ts
+#EXTINF:-1,BDL:Channel i
+http://portal.simiptv.com:8001/live/MV/bhaskar/26398.ts
+#EXTINF:-1,BDL:Channel i Europe
+http://portal.simiptv.com:8001/live/MV/bhaskar/26397.ts
+#EXTINF:-1,BDL:DesheBideshe TV(CAN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/26394.ts
+#EXTINF:-1,BDL:Ekattor TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26393.ts
+#EXTINF:-1,BDL:GaanBangla TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26392.ts
+#EXTINF:-1,BDL:Independent TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26390.ts
+#EXTINF:-1,BDL:Iqra BanglaTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26389.ts
+#EXTINF:-1,BDL:JagoBangla TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26388.ts
+#EXTINF:-1,BDL:Jamuna TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26387.ts
+#EXTINF:-1,BDL:JoyJatra TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26386.ts
+#EXTINF:-1,BDL:Madinah Live
+http://portal.simiptv.com:8001/live/MV/bhaskar/26385.ts
+#EXTINF:-1,BDL:Makkah Live
+http://portal.simiptv.com:8001/live/MV/bhaskar/26384.ts
+#EXTINF:-1,BDL:Millennium TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26383.ts
+#EXTINF:-1,BDL:Movie BanglaTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26382.ts
+#EXTINF:-1,BDL:Nakshi TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26380.ts
+#EXTINF:-1,BDL:News24
+http://portal.simiptv.com:8001/live/MV/bhaskar/26379.ts
+#EXTINF:-1,BDL:NRB TV (CAN)
+http://portal.simiptv.com:8001/live/MV/bhaskar/26378.ts
+#EXTINF:-1,BDL:Panvision TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26376.ts
+#EXTINF:-1,BDL:Probashi Bangla
+http://portal.simiptv.com:8001/live/MV/bhaskar/26375.ts
+#EXTINF:-1,BDL:QTV Bangla |
+http://portal.simiptv.com:8001/live/MV/bhaskar/26374.ts
+#EXTINF:-1,BDL:Rang TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26373.ts
+#EXTINF:-1,BDL:RTV Music|
+http://portal.simiptv.com:8001/live/MV/bhaskar/26372.ts
+#EXTINF:-1,BDL:SATV
+http://portal.simiptv.com:8001/live/MV/bhaskar/26371.ts
+#EXTINF:-1,BDL:Somoy News
+http://portal.simiptv.com:8001/live/MV/bhaskar/26370.ts
+#EXTINF:-1,BDL:Time TV USA
+http://portal.simiptv.com:8001/live/MV/bhaskar/26369.ts
+#EXTINF:-1,TLG @Tollywood Best Movies
+http://portal.simiptv.com:8001/live/MV/bhaskar/20189.ts
+#EXTINF:-1,Tamil_Kalingar News
+http://198.144.158.55:8080/tamil_kilgari_news/index.m3u8
+#EXTINF:-1,Tamil_Makkal TV.
+http://198.144.158.55:8080/tamil_mkkal_tv/index.m3u8
+#EXTINF:-1,Tamil_News 7.
+http://198.144.158.55:8080/tamil_news7/index.m3u8
+#EXTINF:-1,Tamil_Sathiyam.
+http://198.144.158.55:8080/tamil_satiym/index.m3u8
+#EXTINF:-1,Tamil_Jaal TV-
+http://209.58.160.112/jaaltvhls/live.m3u8
+#EXTINF:-1,Tamil_MK Tunes
+http://198.144.158.55:8080/tmail_MK_tunes/index.m3u8
+#EXTINF:-1,Tamil_Vasanth
+http://198.144.158.55:8080/tamil_vasant/index.m3u8
+#EXTINF:-1,Tamil_Zee Tamil HD.
+http://198.144.158.55:8080/tamil_zee_tmil/index.m3u8
+#EXTINF:-1,Telugu:DD Saptagiri
+http://portal.simiptv.com:8001/live/MV/bhaskar/24576.ts
+#EXTINF:-1,Telugu:DD Yadagiri
+http://portal.simiptv.com:8001/live/MV/bhaskar/24575.ts
+#EXTINF:-1,Telugu:Jaya Max
+http://portal.simiptv.com:8001/live/MV/bhaskar/24573.ts
+#EXTINF:-1,Telugu:Jaya Movie
+http://portal.simiptv.com:8001/live/MV/bhaskar/24572.ts
+#EXTINF:-1,Telugu:Jaya TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/24570.ts
+#EXTINF:-1,Telugu:Kalingar
+http://portal.simiptv.com:8001/live/MV/bhaskar/24569.ts
+#EXTINF:-1,Telugu:Kushi TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/24568.ts
+#EXTINF:-1,Telugu:Om Spiritual
+http://portal.simiptv.com:8001/live/MV/bhaskar/24565.ts
+#EXTINF:-1,Telugu:Sakshi TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/24561.ts
+#EXTINF:-1,Telugu:T News
+http://portal.simiptv.com:8001/live/MV/bhaskar/24555.ts
+#EXTINF:-1,Telugu:TV9 Telugu
+http://portal.simiptv.com:8001/live/MV/bhaskar/24551.ts
+#EXTINF:-1,Telugu:Zee Cinemalutp
+http://portal.simiptv.com:8001/live/MV/bhaskar/24548.ts
+#EXTINF:-1,Telugu:Zee Telungu
+http://portal.simiptv.com:8001/live/MV/bhaskar/24545.ts
+#EXTINF:-1,Tamil_7s Music.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25942.ts
+#EXTINF:-1,Tamil_Aarya TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25959.ts
+#EXTINF:-1,Tamil_Adithya TV.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25975.ts
+#EXTINF:-1,Tamil_AKARAM Gallata TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25963.ts
+#EXTINF:-1,Tamil_AKARAM MIX TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25964.ts
+#EXTINF:-1,Tamil_Angel TV HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25974.ts
+#EXTINF:-1,Tamil_Anjali Express TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25951.ts
+#EXTINF:-1,Tamil_BOSS TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25949.ts
+#EXTINF:-1,Tamil_Canada EETTV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25973.ts
+#EXTINF:-1,Tamil_Chutti TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25970.ts
+#EXTINF:-1,Tamil_DD Podhigai.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25969.ts
+#EXTINF:-1,Tamil_Deepam TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25962.ts
+#EXTINF:-1,Tamil_Discovery (Tamil).
+http://portal.simiptv.com:8001/live/MV/bhaskar/25930.ts
+#EXTINF:-1,Tamil_Discovery Kids Tamil.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25928.ts
+#EXTINF:-1,Tamil_Engada Tv-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25972.ts
+#EXTINF:-1,Tamil_IBC Tamil Comedy-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25952.ts
+#EXTINF:-1,Tamil_IBC Tamil-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25953.ts
+#EXTINF:-1,Tamil_Jay Tv HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25936.ts
+#EXTINF:-1,Tamil_Jaya Max.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25944.ts
+#EXTINF:-1,Tamil_Jaya Movie.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25945.ts
+#EXTINF:-1,Tamil_KTV HD.1
+http://portal.simiptv.com:8001/live/MV/bhaskar/25932.ts
+#EXTINF:-1,Tamil_MalaiMurasu TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25956.ts
+#EXTINF:-1,Tamil_Nethra TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25954.ts
+#EXTINF:-1,Tamil_Polimer Music.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25943.ts
+#EXTINF:-1,Tamil_Raj
+http://portal.simiptv.com:8001/live/MV/bhaskar/25946.ts
+#EXTINF:-1,Tamil_Raj Musix.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25948.ts
+#EXTINF:-1,Tamil_Raj News.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25947.ts
+#EXTINF:-1,Tamil_Sana TV HD-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25957.ts
+#EXTINF:-1,Tamil_SANGAMAM TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25966.ts
+#EXTINF:-1,Tamil_Sivan TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25971.ts
+#EXTINF:-1,Tamil_Sony BBC Earth HD (Tamil)
+http://portal.simiptv.com:8001/live/MV/bhaskar/25940.ts
+#EXTINF:-1,Tamil_Sony Yay (Tamil)
+http://portal.simiptv.com:8001/live/MV/bhaskar/25939.ts
+#EXTINF:-1,Tamil_Star Vijay HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25938.ts
+#EXTINF:-1,Tamil_Sun Life
+http://portal.simiptv.com:8001/live/MV/bhaskar/25937.ts
+#EXTINF:-1,Tamil_Sun Music HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25935.ts
+#EXTINF:-1,Tamil_Sun News.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25934.ts
+#EXTINF:-1,Tamil_Sun TV.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25933.ts
+#EXTINF:-1,Tamil_Tamil Vision TV HD-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25961.ts
+#EXTINF:-1,Tamil_Thanthi TV.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25941.ts
+#EXTINF:-1,Tamil_Tunes 6-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25950.ts
+#EXTINF:-1,Tamil_Tunes Raj Digital Plus.
+http://portal.simiptv.com:8001/live/MV/bhaskar/25929.ts
+#EXTINF:-1,Tamil_Vaigai TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25958.ts
+#EXTINF:-1,Tamil_Vani TV-
+http://portal.simiptv.com:8001/live/MV/bhaskar/25960.ts
+#EXTINF:-1,Tamil_Vasantham Tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/25968.ts
+#EXTINF:-1,Tamil_VELICHAM TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25967.ts
+#EXTINF:-1,Tamil_Vendhar TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25927.ts
+#EXTINF:-1,Tamil_Zee Tamil_HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25926.ts
+#EXTINF:-1,Marathi_DD Marathi HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25981.ts
+#EXTINF:-1,Marathi_Fakt Marathi
+http://portal.simiptv.com:8001/live/MV/bhaskar/25982.ts
+#EXTINF:-1,Marathi_News 18 Lokmat
+http://portal.simiptv.com:8001/live/MV/bhaskar/25979.ts
+#EXTINF:-1,Marathi_Saam Tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/25978.ts
+#EXTINF:-1,Marathi_Sangeet Marathi
+http://portal.simiptv.com:8001/live/MV/bhaskar/25983.ts
+#EXTINF:-1,Marathi_TV9 Marathi
+http://portal.simiptv.com:8001/live/MV/bhaskar/25980.ts
+#EXTINF:-1,Marathi_zee 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/25977.ts
+#EXTINF:-1,Marathi_Zee Marathi HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25984.ts
+#EXTINF:-1,Marathi_Zee Marathi SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25985.ts
+#EXTINF:-1,Marathi_Zee Talkie HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25976.ts
+#EXTINF:-1,Marathi_zee Yuva
+http://portal.simiptv.com:8001/live/MV/bhaskar/25986.ts
+#EXTINF:-1,IN:MBC BOLLYWOOD HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/13482.ts
+#EXTINF:-1,**** AFRICAN TV ****
+http://portal.simiptv.com:8001/live/MV/bhaskar/17832.ts
+#EXTINF:-1,AF: 3ABN Français
+http://portal.simiptv.com:8001/live/MV/bhaskar/25211.ts
+#EXTINF:-1,AF: 3ABN International
+http://portal.simiptv.com:8001/live/MV/bhaskar/25210.ts
+#EXTINF:-1,AF: 7Entertainment
+http://portal.simiptv.com:8001/live/MV/bhaskar/25209.ts
+#EXTINF:-1,AF: 7TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25208.ts
+#EXTINF:-1,AF: A2i TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25207.ts
+#EXTINF:-1,AF: A2i TV Music
+http://portal.simiptv.com:8001/live/MV/bhaskar/25206.ts
+#EXTINF:-1,AF: A2i TV Religion
+http://portal.simiptv.com:8001/live/MV/bhaskar/25205.ts
+#EXTINF:-1,AF: Africa 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/25204.ts
+#EXTINF:-1,AF: Africa News
+http://portal.simiptv.com:8001/live/MV/bhaskar/25203.ts
+#EXTINF:-1,AF: Africa TV1
+http://portal.simiptv.com:8001/live/MV/bhaskar/25202.ts
+#EXTINF:-1,AF: Africa TV2
+http://portal.simiptv.com:8001/live/MV/bhaskar/25201.ts
+#EXTINF:-1,AF: Africa TV3
+http://portal.simiptv.com:8001/live/MV/bhaskar/25200.ts
+#EXTINF:-1,AF: Africa24
+http://portal.simiptv.com:8001/live/MV/bhaskar/25199.ts
+#EXTINF:-1,AF: Africacable
+http://portal.simiptv.com:8001/live/MV/bhaskar/25198.ts
+#EXTINF:-1,AF: African TV Guinée
+http://portal.simiptv.com:8001/live/MV/bhaskar/25197.ts
+#EXTINF:-1,AF: Afrique Media TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25196.ts
+#EXTINF:-1,AF: AIT Internatinal
+http://portal.simiptv.com:8001/live/MV/bhaskar/25195.ts
+#EXTINF:-1,AF: ANN7 News
+http://portal.simiptv.com:8001/live/MV/bhaskar/25194.ts
+#EXTINF:-1,AF: Antenne A
+http://portal.simiptv.com:8001/live/MV/bhaskar/25193.ts
+#EXTINF:-1,AF: B-One
+http://portal.simiptv.com:8001/live/MV/bhaskar/25192.ts
+#EXTINF:-1,AF: Bblack Africa
+http://portal.simiptv.com:8001/live/MV/bhaskar/25191.ts
+#EXTINF:-1,AF: Bblack Carrabean
+http://portal.simiptv.com:8001/live/MV/bhaskar/25190.ts
+#EXTINF:-1,AF: BBlack Classik
+http://portal.simiptv.com:8001/live/MV/bhaskar/25189.ts
+#EXTINF:-1,AF: Ben
+http://portal.simiptv.com:8001/live/MV/bhaskar/25188.ts
+#EXTINF:-1,AF: Benie TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25187.ts
+#EXTINF:-1,AF: Biafra Nigeria
+http://portal.simiptv.com:8001/live/MV/bhaskar/25186.ts
+#EXTINF:-1,AF: Biafra TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25185.ts
+#EXTINF:-1,AF: C News
+http://portal.simiptv.com:8001/live/MV/bhaskar/25184.ts
+#EXTINF:-1,AF: Canal 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/25183.ts
+#EXTINF:-1,AF: Canal C v v
+http://portal.simiptv.com:8001/live/MV/bhaskar/25182.ts
+#EXTINF:-1,AF: Canal CVV International
+http://portal.simiptv.com:8001/live/MV/bhaskar/25181.ts
+#EXTINF:-1,AF: CGTN Africa
+http://portal.simiptv.com:8001/live/MV/bhaskar/25180.ts
+#EXTINF:-1,AF: CGTN France
+http://portal.simiptv.com:8001/live/MV/bhaskar/25179.ts
+#EXTINF:-1,AF: Congo Planet TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25178.ts
+#EXTINF:-1,AF: CRTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25177.ts
+#EXTINF:-1,AF: CRTV News
+http://portal.simiptv.com:8001/live/MV/bhaskar/25176.ts
+#EXTINF:-1,AF: D24
+http://portal.simiptv.com:8001/live/MV/bhaskar/25175.ts
+#EXTINF:-1,AF: D5TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25174.ts
+#EXTINF:-1,AF: Dare to Dream
+http://portal.simiptv.com:8001/live/MV/bhaskar/25173.ts
+#EXTINF:-1,AF: Dove TV Nigeria
+http://portal.simiptv.com:8001/live/MV/bhaskar/25172.ts
+#EXTINF:-1,AF: DRTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25171.ts
+#EXTINF:-1,AF: DTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25170.ts
+#EXTINF:-1,AF: Ebru Africa
+http://portal.simiptv.com:8001/live/MV/bhaskar/25169.ts
+#EXTINF:-1,AF: Equinoxe
+http://portal.simiptv.com:8001/live/MV/bhaskar/25168.ts
+#EXTINF:-1,AF: Eritrean TV channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/25167.ts
+#EXTINF:-1,AF: ETN
+http://portal.simiptv.com:8001/live/MV/bhaskar/25166.ts
+#EXTINF:-1,AF: ETV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25165.ts
+#EXTINF:-1,AF: ETV Entertainment
+http://portal.simiptv.com:8001/live/MV/bhaskar/25164.ts
+#EXTINF:-1,AF: ETV Language
+http://portal.simiptv.com:8001/live/MV/bhaskar/25163.ts
+#EXTINF:-1,AF: ETV News
+http://portal.simiptv.com:8001/live/MV/bhaskar/25162.ts
+#EXTINF:-1,AF: Euronews
+http://portal.simiptv.com:8001/live/MV/bhaskar/25161.ts
+#EXTINF:-1,AF: Faith TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25160.ts
+#EXTINF:-1,AF: Fashion TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25159.ts
+#EXTINF:-1,AF: Film Africain 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/25158.ts
+#EXTINF:-1,AF: France Info
+http://portal.simiptv.com:8001/live/MV/bhaskar/25157.ts
+#EXTINF:-1,AF: France24
+http://portal.simiptv.com:8001/live/MV/bhaskar/25156.ts
+#EXTINF:-1,AF: FusionPlus TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25155.ts
+#EXTINF:-1,AF: Ghana KessbenTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25154.ts
+#EXTINF:-1,AF: Gift TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25153.ts
+#EXTINF:-1,AF: God TV Africa
+http://portal.simiptv.com:8001/live/MV/bhaskar/25152.ts
+#EXTINF:-1,AF: Guinée Buzz
+http://portal.simiptv.com:8001/live/MV/bhaskar/25151.ts
+#EXTINF:-1,AF: Hit TV Africa
+http://portal.simiptv.com:8001/live/MV/bhaskar/25150.ts
+#EXTINF:-1,AF: Hope Channel Africa
+http://portal.simiptv.com:8001/live/MV/bhaskar/25149.ts
+#EXTINF:-1,AF: ImpacTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25148.ts
+#EXTINF:-1,AF: ITV Benin
+http://portal.simiptv.com:8001/live/MV/bhaskar/25147.ts
+#EXTINF:-1,AF: Jubbaland TV Somalia AF
+http://portal.simiptv.com:8001/live/MV/bhaskar/25146.ts
+#EXTINF:-1,AF: K24
+http://portal.simiptv.com:8001/live/MV/bhaskar/25145.ts
+#EXTINF:-1,AF: Kajou TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25144.ts
+#EXTINF:-1,AF: Kalsan TV Somali AF
+http://portal.simiptv.com:8001/live/MV/bhaskar/25143.ts
+#EXTINF:-1,AF: Kass TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25142.ts
+#EXTINF:-1,AF: Light TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25141.ts
+#EXTINF:-1,AF: LObsTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25140.ts
+#EXTINF:-1,AF: LoveWorld Plus
+http://portal.simiptv.com:8001/live/MV/bhaskar/25139.ts
+#EXTINF:-1,AF: LoveWorld Sat TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25138.ts
+#EXTINF:-1,AF: MDL
+http://portal.simiptv.com:8001/live/MV/bhaskar/25137.ts
+#EXTINF:-1,AF: Mourchid TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25136.ts
+#EXTINF:-1,AF: Mouridetv
+http://portal.simiptv.com:8001/live/MV/bhaskar/25135.ts
+#EXTINF:-1,AF: Nollywood
+http://portal.simiptv.com:8001/live/MV/bhaskar/25134.ts
+#EXTINF:-1,AF: Nollywood Movie
+http://portal.simiptv.com:8001/live/MV/bhaskar/25133.ts
+#EXTINF:-1,AF: ORTB
+http://portal.simiptv.com:8001/live/MV/bhaskar/25132.ts
+#EXTINF:-1,AF: People TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25131.ts
+#EXTINF:-1,AF: Rave TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25130.ts
+#EXTINF:-1,AF: RDV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25129.ts
+#EXTINF:-1,AF: RT
+http://portal.simiptv.com:8001/live/MV/bhaskar/25128.ts
+#EXTINF:-1,AF: RT France
+http://portal.simiptv.com:8001/live/MV/bhaskar/25127.ts
+#EXTINF:-1,AF: RTB
+http://portal.simiptv.com:8001/live/MV/bhaskar/25126.ts
+#EXTINF:-1,AF: RTD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25125.ts
+#EXTINF:-1,AF: RTI1
+http://portal.simiptv.com:8001/live/MV/bhaskar/25124.ts
+#EXTINF:-1,AF: RTI2
+http://portal.simiptv.com:8001/live/MV/bhaskar/25123.ts
+#EXTINF:-1,AF: RTNC
+http://portal.simiptv.com:8001/live/MV/bhaskar/25122.ts
+#EXTINF:-1,AF: RTS1
+http://portal.simiptv.com:8001/live/MV/bhaskar/25121.ts
+#EXTINF:-1,AF: RTS2
+http://portal.simiptv.com:8001/live/MV/bhaskar/25120.ts
+#EXTINF:-1,AF: RTV  Rwanda
+http://portal.simiptv.com:8001/live/MV/bhaskar/25119.ts
+#EXTINF:-1,AF: Salvation TV Nigeria
+http://portal.simiptv.com:8001/live/MV/bhaskar/25118.ts
+#EXTINF:-1,AF: Sanga Music
+http://portal.simiptv.com:8001/live/MV/bhaskar/25117.ts
+#EXTINF:-1,AF: SEN TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25116.ts
+#EXTINF:-1,AF: Somali Cable
+http://portal.simiptv.com:8001/live/MV/bhaskar/25115.ts
+#EXTINF:-1,AF: Source Africa TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25114.ts
+#EXTINF:-1,AF: Star TV Tanzania
+http://portal.simiptv.com:8001/live/MV/bhaskar/25113.ts
+#EXTINF:-1,AF: Tayba TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25112.ts
+#EXTINF:-1,AF: Tele Congo
+http://portal.simiptv.com:8001/live/MV/bhaskar/25111.ts
+#EXTINF:-1,AF: Tele SUD
+http://portal.simiptv.com:8001/live/MV/bhaskar/25110.ts
+#EXTINF:-1,AF: Tele Tchad
+http://portal.simiptv.com:8001/live/MV/bhaskar/25109.ts
+#EXTINF:-1,AF: Télésambre
+http://portal.simiptv.com:8001/live/MV/bhaskar/25108.ts
+#EXTINF:-1,AF: TFM
+http://portal.simiptv.com:8001/live/MV/bhaskar/25107.ts
+#EXTINF:-1,AF: TFM  Religions
+http://portal.simiptv.com:8001/live/MV/bhaskar/25106.ts
+#EXTINF:-1,AF: Touba TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25105.ts
+#EXTINF:-1,AF: TPA1
+http://portal.simiptv.com:8001/live/MV/bhaskar/25104.ts
+#EXTINF:-1,AF: Trace Naija
+http://portal.simiptv.com:8001/live/MV/bhaskar/25103.ts
+#EXTINF:-1,AF: Trace Urbaine
+http://portal.simiptv.com:8001/live/MV/bhaskar/25102.ts
+#EXTINF:-1,AF: TV Congo
+http://portal.simiptv.com:8001/live/MV/bhaskar/25101.ts
+#EXTINF:-1,AF: TV Continental Nigeria
+http://portal.simiptv.com:8001/live/MV/bhaskar/25100.ts
+#EXTINF:-1,AF: TV Francophonie 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/25099.ts
+#EXTINF:-1,AF: TV Maná Moçambique
+http://portal.simiptv.com:8001/live/MV/bhaskar/25098.ts
+#EXTINF:-1,AF: TV5 Monde
+http://portal.simiptv.com:8001/live/MV/bhaskar/25097.ts
+#EXTINF:-1,AF: TV7 Colmar
+http://portal.simiptv.com:8001/live/MV/bhaskar/25096.ts
+#EXTINF:-1,AF: TvFrancophonie24
+http://portal.simiptv.com:8001/live/MV/bhaskar/25095.ts
+#EXTINF:-1,AF: TVM 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/25094.ts
+#EXTINF:-1,AF: TVM2
+http://portal.simiptv.com:8001/live/MV/bhaskar/25093.ts
+#EXTINF:-1,AF: VOX TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25092.ts
+#EXTINF:-1,AF: Voxafrica local
+http://portal.simiptv.com:8001/live/MV/bhaskar/25091.ts
+#EXTINF:-1,AF: Walf TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25090.ts
+#EXTINF:-1,AF: Wes Africa TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25089.ts
+#EXTINF:-1,AF: 2S TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/25212.ts
+#EXTINF:-1,AF:  Afro Music
+http://portal.simiptv.com:8001/live/MV/bhaskar/21699.ts
+#EXTINF:-1,AF:  RTB
+http://portal.simiptv.com:8001/live/MV/bhaskar/21698.ts
+#EXTINF:-1,AF:  TVT TOGO
+http://portal.simiptv.com:8001/live/MV/bhaskar/21697.ts
+#EXTINF:-1,AF: ADOM TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21696.ts
+#EXTINF:-1,AF: Africa News 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/21695.ts
+#EXTINF:-1,AF: ANN7
+http://portal.simiptv.com:8001/live/MV/bhaskar/21694.ts
+#EXTINF:-1,AF: BOOM TV ( Cameroon )
+http://portal.simiptv.com:8001/live/MV/bhaskar/21693.ts
+#EXTINF:-1,AF: Cine Plus Africa ( Ghana )
+http://portal.simiptv.com:8001/live/MV/bhaskar/21691.ts
+#EXTINF:-1,AF: DIEU TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21690.ts
+#EXTINF:-1,AF: espace TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21689.ts
+#EXTINF:-1,AF: GRTS TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21688.ts
+#EXTINF:-1,AF: ORTB TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21687.ts
+#EXTINF:-1,AF: ORTM
+http://portal.simiptv.com:8001/live/MV/bhaskar/21686.ts
+#EXTINF:-1,AF: Realnolly tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/21685.ts
+#EXTINF:-1,AF: RTG
+http://portal.simiptv.com:8001/live/MV/bhaskar/21684.ts
+#EXTINF:-1,AF: RTi 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21683.ts
+#EXTINF:-1,AF: RTi 1  hd
+http://portal.simiptv.com:8001/live/MV/bhaskar/21682.ts
+#EXTINF:-1,AF: RTi 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21681.ts
+#EXTINF:-1,AF: RTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21680.ts
+#EXTINF:-1,AF: TPA
+http://portal.simiptv.com:8001/live/MV/bhaskar/21679.ts
+#EXTINF:-1,AF: Trace Africa
+http://portal.simiptv.com:8001/live/MV/bhaskar/21678.ts
+#EXTINF:-1,AF: TV C
+http://portal.simiptv.com:8001/live/MV/bhaskar/21677.ts
+#EXTINF:-1,AF: TVT INT....
+http://portal.simiptv.com:8001/live/MV/bhaskar/21676.ts
+#EXTINF:-1,AF: VOX Africa
+http://portal.simiptv.com:8001/live/MV/bhaskar/21675.ts
+#EXTINF:-1,AFR: TV ZIMBO
+http://portal.simiptv.com:8001/live/MV/bhaskar/24898.ts
+#EXTINF:-1,AF: Wazobia TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21692.ts
+#EXTINF:-1,>>>>>>Senegal<<<<<<<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21700.ts
+#EXTINF:-1,SN:  Nollywood Frenh TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21674.ts
+#EXTINF:-1,SN:  Theatre TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21673.ts
+#EXTINF:-1,SN:  Walf TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21672.ts
+#EXTINF:-1,SN: 2STV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21671.ts
+#EXTINF:-1,SN: A21
+http://portal.simiptv.com:8001/live/MV/bhaskar/21670.ts
+#EXTINF:-1,SN: Africa Cable TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21669.ts
+#EXTINF:-1,SN: ASFIYAHITV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21668.ts
+#EXTINF:-1,SN: BICHRI TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21667.ts
+#EXTINF:-1,SN: Diaspora24
+http://portal.simiptv.com:8001/live/MV/bhaskar/21666.ts
+#EXTINF:-1,SN: DTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21665.ts
+#EXTINF:-1,SN: Lamp Fall TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21664.ts
+#EXTINF:-1,SN: Mourchid TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21663.ts
+#EXTINF:-1,SN: Mouride tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/21662.ts
+#EXTINF:-1,SN: MUSIC TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21661.ts
+#EXTINF:-1,SN: Novelos TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21660.ts
+#EXTINF:-1,SN: QACAID TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21659.ts
+#EXTINF:-1,SN: RDV TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21658.ts
+#EXTINF:-1,SN: RTS 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21657.ts
+#EXTINF:-1,SN: RTS 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21656.ts
+#EXTINF:-1,SN: SenTV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21655.ts
+#EXTINF:-1,SN: tele sud
+http://portal.simiptv.com:8001/live/MV/bhaskar/21654.ts
+#EXTINF:-1,SN: TFM
+http://portal.simiptv.com:8001/live/MV/bhaskar/21653.ts
+#EXTINF:-1,SN: TFM HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21652.ts
+#EXTINF:-1,SN: TFM OLE
+http://portal.simiptv.com:8001/live/MV/bhaskar/21651.ts
+#EXTINF:-1,SN: Tfm Regional
+http://portal.simiptv.com:8001/live/MV/bhaskar/21650.ts
+#EXTINF:-1,SN: TOUBA MONDE
+http://portal.simiptv.com:8001/live/MV/bhaskar/21649.ts
+#EXTINF:-1,SN: TOUBA TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21648.ts
+#EXTINF:-1,==== FRENCH =====
+http://portal.simiptv.com:8001/live/MV/bhaskar/19355.ts
+#EXTINF:-1,FR 13EME RUE SD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19351.ts
+#EXTINF:-1,FR A LA CARTE 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/19348.ts
+#EXTINF:-1,FR A LA CARTE 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/19347.ts
+#EXTINF:-1,FR A LA CARTE 5
+http://portal.simiptv.com:8001/live/MV/bhaskar/19346.ts
+#EXTINF:-1,FR A LA CARTE 6
+http://portal.simiptv.com:8001/live/MV/bhaskar/19345.ts
+#EXTINF:-1,FR A LA CARTE 7
+http://portal.simiptv.com:8001/live/MV/bhaskar/19344.ts
+#EXTINF:-1,FR A LA CARTE 8
+http://portal.simiptv.com:8001/live/MV/bhaskar/19343.ts
+#EXTINF:-1,FR A LA CARTE 9
+http://portal.simiptv.com:8001/live/MV/bhaskar/19342.ts
+#EXTINF:-1,FR AB MOTEURS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19341.ts
+#EXTINF:-1,FR AB1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19340.ts
+#EXTINF:-1,FR AB3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19339.ts
+#EXTINF:-1,FR AB3 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19338.ts
+#EXTINF:-1,FR ACTION HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19337.ts
+#EXTINF:-1,FR ACTION SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19336.ts
+#EXTINF:-1,FR ALTICE STUDIO HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19335.ts
+#EXTINF:-1,FR A LA CARTE 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/19349.ts
+#EXTINF:-1,FR ARTE HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19333.ts
+#EXTINF:-1,FR ARTE SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19332.ts
+#EXTINF:-1,FR BFM TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19331.ts
+#EXTINF:-1,FR BFM TV SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19330.ts
+#EXTINF:-1,FR BOING
+http://portal.simiptv.com:8001/live/MV/bhaskar/19329.ts
+#EXTINF:-1,FR BOOMERANG
+http://portal.simiptv.com:8001/live/MV/bhaskar/19328.ts
+#EXTINF:-1,FR BRAVA
+http://portal.simiptv.com:8001/live/MV/bhaskar/19327.ts
+#EXTINF:-1,FR C8 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19326.ts
+#EXTINF:-1,FR C8 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19325.ts
+#EXTINF:-1,FR CANAL  CINEMA SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19324.ts
+#EXTINF:-1,FR CANAL  FAMILY SD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19323.ts
+#EXTINF:-1,FR CANAL  SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19322.ts
+#EXTINF:-1,FR CANAL  SERIES SD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19321.ts
+#EXTINF:-1,FR CARTOON NETWORK
+http://portal.simiptv.com:8001/live/MV/bhaskar/19320.ts
+#EXTINF:-1,FR 6TER HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19350.ts
+#EXTINF:-1,FR ANIMAUX
+http://portal.simiptv.com:8001/live/MV/bhaskar/19334.ts
+#EXTINF:-1,FR RMC Decouverte SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19226.ts
+#EXTINF:-1,FR RMC Decouverte HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19227.ts
+#EXTINF:-1,FR QVC HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19228.ts
+#EXTINF:-1,FR PLANETE CI
+http://portal.simiptv.com:8001/live/MV/bhaskar/19229.ts
+#EXTINF:-1,FR PLANETE A et E
+http://portal.simiptv.com:8001/live/MV/bhaskar/19230.ts
+#EXTINF:-1,FR PLANETE
+http://portal.simiptv.com:8001/live/MV/bhaskar/19231.ts
+#EXTINF:-1,FR PIWI
+http://portal.simiptv.com:8001/live/MV/bhaskar/19232.ts
+#EXTINF:-1,FR PARIS PREMIERE HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19233.ts
+#EXTINF:-1,FR PARAMOUNT CHANNEL HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19234.ts
+#EXTINF:-1,FR PARAMOUNT CHANNEL DECALE HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19235.ts
+#EXTINF:-1,FR OFIVE TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/19236.ts
+#EXTINF:-1,FR OCS Max SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19237.ts
+#EXTINF:-1,FR OCS GEANTS SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19238.ts
+#EXTINF:-1,FR OCS CITY SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19239.ts
+#EXTINF:-1,FR OCS CHOC SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19240.ts
+#EXTINF:-1,FR NUMERO 23 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19241.ts
+#EXTINF:-1,FR NUMERO 23 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19242.ts
+#EXTINF:-1,FR NT1 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19243.ts
+#EXTINF:-1,FR NT1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19244.ts
+#EXTINF:-1,FR NRJ HITS
+http://portal.simiptv.com:8001/live/MV/bhaskar/19245.ts
+#EXTINF:-1,FR NRJ 12 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19246.ts
+#EXTINF:-1,FR NRJ 12 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19247.ts
+#EXTINF:-1,FR NOLIFE
+http://portal.simiptv.com:8001/live/MV/bhaskar/19248.ts
+#EXTINF:-1,FR NICKELODEON 4TEEN
+http://portal.simiptv.com:8001/live/MV/bhaskar/19249.ts
+#EXTINF:-1,FR NICKELODEON
+http://portal.simiptv.com:8001/live/MV/bhaskar/19250.ts
+#EXTINF:-1,FR NAT GEO WILD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19251.ts
+#EXTINF:-1,FR NAT GEO
+http://portal.simiptv.com:8001/live/MV/bhaskar/19252.ts
+#EXTINF:-1,FR MTV BASE HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19253.ts
+#EXTINF:-1,FR MTV
+http://portal.simiptv.com:8001/live/MV/bhaskar/19254.ts
+#EXTINF:-1,FR MEN'S UP
+http://portal.simiptv.com:8001/live/MV/bhaskar/19255.ts
+#EXTINF:-1,FR Cherie 25 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19318.ts
+#EXTINF:-1,FR MANGAS SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19257.ts
+#EXTINF:-1,FR MANGAS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19258.ts
+#EXTINF:-1,FR M6 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19259.ts
+#EXTINF:-1,FR M6 MUSIC
+http://portal.simiptv.com:8001/live/MV/bhaskar/19260.ts
+#EXTINF:-1,FR M6 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19261.ts
+#EXTINF:-1,FR M6 BOUTIQUE ET CO.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19262.ts
+#EXTINF:-1,FR LUXE TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/19263.ts
+#EXTINF:-1,FR LIVE AU COEURS DES REFUGES
+http://portal.simiptv.com:8001/live/MV/bhaskar/19264.ts
+#EXTINF:-1,FR LCP/PUBLIC SENAT SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19265.ts
+#EXTINF:-1,FR LCI HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19266.ts
+#EXTINF:-1,FR L' EQUIPE 21 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19267.ts
+#EXTINF:-1,FR L' EQUIPE 21 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19268.ts
+#EXTINF:-1,FR RTL 9 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19225.ts
+#EXTINF:-1,FR INVESTIGATION DISCOVERY
+http://portal.simiptv.com:8001/live/MV/bhaskar/19270.ts
+#EXTINF:-1,FR INFOSPORT
+http://portal.simiptv.com:8001/live/MV/bhaskar/19271.ts
+#EXTINF:-1,FR RTL 9 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19224.ts
+#EXTINF:-1,FR SCIENCE ET VIE TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19223.ts
+#EXTINF:-1,FR HD1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19274.ts
+#EXTINF:-1,FR Gulli SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19275.ts
+#EXTINF:-1,FR Gulli HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19276.ts
+#EXTINF:-1,FR GONG HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19277.ts
+#EXTINF:-1,FR GINX
+http://portal.simiptv.com:8001/live/MV/bhaskar/19278.ts
+#EXTINF:-1,FR Franceinfo SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19279.ts
+#EXTINF:-1,FR  E! ENTERTAINMENT
+http://portal.simiptv.com:8001/live/MV/bhaskar/19354.ts
+#EXTINF:-1,FR France O SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19281.ts
+#EXTINF:-1,FR France O HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19282.ts
+#EXTINF:-1,FR France 5 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19283.ts
+#EXTINF:-1,FR France 5 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19284.ts
+#EXTINF:-1,FR FRANCE 4 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19285.ts
+#EXTINF:-1,FR FRANCE 4 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19286.ts
+#EXTINF:-1,FR France 3 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19287.ts
+#EXTINF:-1,FR France 3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19288.ts
+#EXTINF:-1,FR FRANCE 24 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19289.ts
+#EXTINF:-1,FR France 2 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19290.ts
+#EXTINF:-1,FR France 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19291.ts
+#EXTINF:-1,FR FOOT
+http://portal.simiptv.com:8001/live/MV/bhaskar/19292.ts
+#EXTINF:-1,FR EUROSPORT 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19293.ts
+#EXTINF:-1,FR EUROSPORT 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19294.ts
+#EXTINF:-1,FR EURONEWS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19295.ts
+#EXTINF:-1,FR DISNEY JUNIOR
+http://portal.simiptv.com:8001/live/MV/bhaskar/19296.ts
+#EXTINF:-1,FR DISNEY CINEMA
+http://portal.simiptv.com:8001/live/MV/bhaskar/19297.ts
+#EXTINF:-1,FR DISNEY CHANNEL  1
+http://portal.simiptv.com:8001/live/MV/bhaskar/19298.ts
+#EXTINF:-1,FR DISCOVERY SCIENCE
+http://portal.simiptv.com:8001/live/MV/bhaskar/19299.ts
+#EXTINF:-1,FR DISCOVERY CHANNEL
+http://portal.simiptv.com:8001/live/MV/bhaskar/19300.ts
+#EXTINF:-1,FR CStar SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19301.ts
+#EXTINF:-1,FR CStar HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19302.ts
+#EXTINF:-1,FR COMEDIE  SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19303.ts
+#EXTINF:-1,FR COMEDIE  HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19304.ts
+#EXTINF:-1,FR CNews SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19305.ts
+#EXTINF:-1,FR CNews HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19306.ts
+#EXTINF:-1,FR Cine Polar SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19307.ts
+#EXTINF:-1,FR CINE POLAR HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19308.ts
+#EXTINF:-1,FR Cine FX SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19309.ts
+#EXTINF:-1,FR CINE FX HD.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19310.ts
+#EXTINF:-1,FR Cine  Premier SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19311.ts
+#EXTINF:-1,FR Cine  Frisson SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19312.ts
+#EXTINF:-1,FR Cine  Famiz SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19313.ts
+#EXTINF:-1,FR Cine  Emotion SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19314.ts
+#EXTINF:-1,FR Cine  Club SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19315.ts
+#EXTINF:-1,FR Cine  Classic SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19316.ts
+#EXTINF:-1,FR Cherie 25 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19317.ts
+#EXTINF:-1,FR CHASSE ET PECHE
+http://portal.simiptv.com:8001/live/MV/bhaskar/19319.ts
+#EXTINF:-1,FR MCM
+http://portal.simiptv.com:8001/live/MV/bhaskar/19256.ts
+#EXTINF:-1,FR  TIJI HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19352.ts
+#EXTINF:-1,FR Serie Club HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19222.ts
+#EXTINF:-1,FR SFR SPORT 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19221.ts
+#EXTINF:-1,FR SFR SPORT 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19220.ts
+#EXTINF:-1,FR SFR SPORT 3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19219.ts
+#EXTINF:-1,FR SFR SPORT 5 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19218.ts
+#EXTINF:-1,FR SYFY HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19217.ts
+#EXTINF:-1,FR SYFY SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19216.ts
+#EXTINF:-1,FR TCM CINEMA HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19215.ts
+#EXTINF:-1,FR TCM CINEMA SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19214.ts
+#EXTINF:-1,FR TELETOON
+http://portal.simiptv.com:8001/live/MV/bhaskar/19213.ts
+#EXTINF:-1,FR TEVA HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19212.ts
+#EXTINF:-1,FR TF1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19211.ts
+#EXTINF:-1,FR TF1 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19210.ts
+#EXTINF:-1,FR TLM
+http://portal.simiptv.com:8001/live/MV/bhaskar/19209.ts
+#EXTINF:-1,FR TMC HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19208.ts
+#EXTINF:-1,FR TMC SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19207.ts
+#EXTINF:-1,FR TOONAMI.
+http://portal.simiptv.com:8001/live/MV/bhaskar/19206.ts
+#EXTINF:-1,FR TOUTE L' HISTOIRE
+http://portal.simiptv.com:8001/live/MV/bhaskar/19205.ts
+#EXTINF:-1,FR TRACE AFRICA HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19204.ts
+#EXTINF:-1,FR TRACE TROPICAL HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19203.ts
+#EXTINF:-1,FR TRACE URBAN HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19202.ts
+#EXTINF:-1,FR TV BREIZH HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19201.ts
+#EXTINF:-1,FR TV5 MONDE
+http://portal.simiptv.com:8001/live/MV/bhaskar/19200.ts
+#EXTINF:-1,FR TV8 Mont Blanc
+http://portal.simiptv.com:8001/live/MV/bhaskar/19199.ts
+#EXTINF:-1,FR TVM3
+http://portal.simiptv.com:8001/live/MV/bhaskar/19198.ts
+#EXTINF:-1,FR VIVOLTA HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19197.ts
+#EXTINF:-1,FR VOYAGE HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19196.ts
+#EXTINF:-1,FR W9 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19195.ts
+#EXTINF:-1,FR  SEASON HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19353.ts
+#EXTINF:-1,FR I24NEWS HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19272.ts
+#EXTINF:-1,FR: BFM Sport
+http://portal.simiptv.com:8001/live/MV/bhaskar/17440.ts
+#EXTINF:-1,FR W9 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19194.ts
+#EXTINF:-1,FR HD1 SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19273.ts
+#EXTINF:-1,FR: BeinSport 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/17448.ts
+#EXTINF:-1,FR: SFR Sport 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/17450.ts
+#EXTINF:-1,FR: SFR Sport 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/17451.ts
+#EXTINF:-1,FR: SFR Sport 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/17452.ts
+#EXTINF:-1,FR: Lequipe 21
+http://portal.simiptv.com:8001/live/MV/bhaskar/17443.ts
+#EXTINF:-1,FR: Infosport
+http://portal.simiptv.com:8001/live/MV/bhaskar/17446.ts
+#EXTINF:-1,FR: Golf
+http://portal.simiptv.com:8001/live/MV/bhaskar/17444.ts
+#EXTINF:-1,FR: Foot  24
+http://portal.simiptv.com:8001/live/MV/bhaskar/17445.ts
+#EXTINF:-1,FR: Equidia Live
+http://portal.simiptv.com:8001/live/MV/bhaskar/17442.ts
+#EXTINF:-1,FR: Equidia Life
+http://portal.simiptv.com:8001/live/MV/bhaskar/17441.ts
+#EXTINF:-1,fr j-one
+http://portal.simiptv.com:8001/live/MV/bhaskar/19269.ts
+#EXTINF:-1,FR: BeinSport 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/17447.ts
+#EXTINF:-1,FR: BeinSport 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/17449.ts
+#EXTINF:-1,FR Franceinfo HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/19280.ts
+#EXTINF:-1,PT: AMC
+http://portal.simiptv.com:8001/live/MV/bhaskar/17408.ts
+#EXTINF:-1,PT: AXN
+http://portal.simiptv.com:8001/live/MV/bhaskar/17407.ts
+#EXTINF:-1,PT: AXN Black
+http://portal.simiptv.com:8001/live/MV/bhaskar/17406.ts
+#EXTINF:-1,PT: AXN White
+http://portal.simiptv.com:8001/live/MV/bhaskar/17405.ts
+#EXTINF:-1,PT: BENFICA TV 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/17382.ts
+#EXTINF:-1,PT: Cartoon Network
+http://portal.simiptv.com:8001/live/MV/bhaskar/17399.ts
+#EXTINF:-1,PT: Casa E Pesca
+http://portal.simiptv.com:8001/live/MV/bhaskar/17390.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://portal.simiptv.com:8001/live/MV/bhaskar/17411.ts
+#EXTINF:-1,PT: CM TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17420.ts
+#EXTINF:-1,PT: Discovery Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/17394.ts
+#EXTINF:-1,PT: Disney Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/17398.ts
+#EXTINF:-1,PT: Disney Junior
+http://portal.simiptv.com:8001/live/MV/bhaskar/17397.ts
+#EXTINF:-1,PT: FOX
+http://portal.simiptv.com:8001/live/MV/bhaskar/17417.ts
+#EXTINF:-1,PT: FOX Comedy
+http://portal.simiptv.com:8001/live/MV/bhaskar/17416.ts
+#EXTINF:-1,PT: FOX Crime
+http://portal.simiptv.com:8001/live/MV/bhaskar/17414.ts
+#EXTINF:-1,PT: FOX Life
+http://portal.simiptv.com:8001/live/MV/bhaskar/17415.ts
+#EXTINF:-1,PT: FOX Movies
+http://portal.simiptv.com:8001/live/MV/bhaskar/17413.ts
+#EXTINF:-1,PT: HISTORIA
+http://portal.simiptv.com:8001/live/MV/bhaskar/17392.ts
+#EXTINF:-1,PT: Hollywood
+http://portal.simiptv.com:8001/live/MV/bhaskar/17410.ts
+#EXTINF:-1,PT: Jim Jam
+http://portal.simiptv.com:8001/live/MV/bhaskar/17395.ts
+#EXTINF:-1,PT: MOTORVISION
+http://portal.simiptv.com:8001/live/MV/bhaskar/17391.ts
+#EXTINF:-1,PT: MOV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17409.ts
+#EXTINF:-1,PT: ODISSEIA
+http://portal.simiptv.com:8001/live/MV/bhaskar/17393.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://portal.simiptv.com:8001/live/MV/bhaskar/17430.ts
+#EXTINF:-1,PT: RTP1
+http://portal.simiptv.com:8001/live/MV/bhaskar/17433.ts
+#EXTINF:-1,PT: RTP2
+http://portal.simiptv.com:8001/live/MV/bhaskar/17432.ts
+#EXTINF:-1,PT: RTP3
+http://portal.simiptv.com:8001/live/MV/bhaskar/17431.ts
+#EXTINF:-1,PT: SIC
+http://portal.simiptv.com:8001/live/MV/bhaskar/17426.ts
+#EXTINF:-1,PT: SIC CARAS
+http://portal.simiptv.com:8001/live/MV/bhaskar/17425.ts
+#EXTINF:-1,PT: SIC Kids
+http://portal.simiptv.com:8001/live/MV/bhaskar/17396.ts
+#EXTINF:-1,PT: SIC MULHER
+http://portal.simiptv.com:8001/live/MV/bhaskar/17424.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://portal.simiptv.com:8001/live/MV/bhaskar/17422.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://portal.simiptv.com:8001/live/MV/bhaskar/17423.ts
+#EXTINF:-1,PT: SPORT TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17384.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/17389.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/17388.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/17387.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/17386.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://portal.simiptv.com:8001/live/MV/bhaskar/17385.ts
+#EXTINF:-1,PT: Sporting TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17383.ts
+#EXTINF:-1,PT: Syfy
+http://portal.simiptv.com:8001/live/MV/bhaskar/17412.ts
+#EXTINF:-1,PT: TV GLOBO
+http://portal.simiptv.com:8001/live/MV/bhaskar/17419.ts
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://portal.simiptv.com:8001/live/MV/bhaskar/17418.ts
+#EXTINF:-1,PT: TV SERIES
+http://portal.simiptv.com:8001/live/MV/bhaskar/17404.ts
+#EXTINF:-1,PT: TVCINE 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/17403.ts
+#EXTINF:-1,PT: TVCINE 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/17402.ts
+#EXTINF:-1,PT: TVCINE 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/17401.ts
+#EXTINF:-1,PT: TVCINE 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/17400.ts
+#EXTINF:-1,PT: TVI
+http://portal.simiptv.com:8001/live/MV/bhaskar/17429.ts
+#EXTINF:-1,PT: TVI 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/17421.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://portal.simiptv.com:8001/live/MV/bhaskar/17428.ts
+#EXTINF:-1,PT: TVI Reality
+http://portal.simiptv.com:8001/live/MV/bhaskar/17427.ts
+#EXTINF:-1,>>>>>ITALY<<<<<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21261.ts
+#EXTINF:-1,IT: RAI 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21257.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21250.ts
+#EXTINF:-1,IT: Rete 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21244.ts
+#EXTINF:-1,IT: RAI 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21252.ts
+#EXTINF:-1,IT: Rai 5
+http://portal.simiptv.com:8001/live/MV/bhaskar/21251.ts
+#EXTINF:-1,IT: La 5
+http://portal.simiptv.com:8001/live/MV/bhaskar/21248.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21247.ts
+#EXTINF:-1,IT: LA 7 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21249.ts
+#EXTINF:-1,IT: Rai Gulp
+http://portal.simiptv.com:8001/live/MV/bhaskar/21258.ts
+#EXTINF:-1,IT: RAI Movie
+http://portal.simiptv.com:8001/live/MV/bhaskar/21253.ts
+#EXTINF:-1,IT: Rai News 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/21259.ts
+#EXTINF:-1,IT: RAI Premium
+http://portal.simiptv.com:8001/live/MV/bhaskar/21254.ts
+#EXTINF:-1,IT: Rai Scuola
+http://portal.simiptv.com:8001/live/MV/bhaskar/21255.ts
+#EXTINF:-1,IT: RAI Storia
+http://portal.simiptv.com:8001/live/MV/bhaskar/21256.ts
+#EXTINF:-1,IT: Rai yoyo
+http://portal.simiptv.com:8001/live/MV/bhaskar/21260.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21246.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21245.ts
+#EXTINF:-1,* * * * * * * * * * IT: SKY PRIMAFILA  * * * * * * * * * *
+http://portal.simiptv.com:8001/live/MV/bhaskar/21270.ts
+#EXTINF:-1,IT: Primafilla 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21269.ts
+#EXTINF:-1,IT: Primafilla 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21268.ts
+#EXTINF:-1,IT: Primafilla 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21267.ts
+#EXTINF:-1,IT: Primafilla 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21266.ts
+#EXTINF:-1,IT: Primafilla 5
+http://portal.simiptv.com:8001/live/MV/bhaskar/21265.ts
+#EXTINF:-1,IT: Primafilla 6
+http://portal.simiptv.com:8001/live/MV/bhaskar/21264.ts
+#EXTINF:-1,IT: Primafilla 8
+http://portal.simiptv.com:8001/live/MV/bhaskar/21263.ts
+#EXTINF:-1,IT: Primafilla 10
+http://portal.simiptv.com:8001/live/MV/bhaskar/21262.ts
+#EXTINF:-1,* * * * * * * * * * IT: SPORT * * * * * * * * * *
+http://portal.simiptv.com:8001/live/MV/bhaskar/21299.ts
+#EXTINF:-1,IT: Fox Sports HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21286.ts
+#EXTINF:-1,IT: JUVENTUS CHANNEL
+http://portal.simiptv.com:8001/live/MV/bhaskar/21288.ts
+#EXTINF:-1,IT: Milan TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21281.ts
+#EXTINF:-1,IT: Premium Cinema Comedy
+http://portal.simiptv.com:8001/live/MV/bhaskar/21295.ts
+#EXTINF:-1,IT: Premium Crime
+http://portal.simiptv.com:8001/live/MV/bhaskar/21296.ts
+#EXTINF:-1,IT: Premium Crime 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/21297.ts
+#EXTINF:-1,IT: Roma Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/21298.ts
+#EXTINF:-1,IT: RTL 102.5
+http://portal.simiptv.com:8001/live/MV/bhaskar/21289.ts
+#EXTINF:-1,IT: Sky Sport 2 HD 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21292.ts
+#EXTINF:-1,IT: SKY Sport 2 HD 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21291.ts
+#EXTINF:-1,IT: Sky Sport 3 HD 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21290.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21293.ts
+#EXTINF:-1,IT: Sky Sport Moto GP HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21294.ts
+#EXTINF:-1,IT: Sky Sport24 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21284.ts
+#EXTINF:-1,IT: Sport Italia
+http://portal.simiptv.com:8001/live/MV/bhaskar/21285.ts
+#EXTINF:-1,IT: SuperTennis HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21287.ts
+#EXTINF:-1,* * * * * * * * * * IT: SKY CINEMA * * * * * * * * * *
+http://portal.simiptv.com:8001/live/MV/bhaskar/21311.ts
+#EXTINF:-1,IT: Sky Cinema  24 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21302.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21306.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD (2)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21307.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21303.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD (2)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21308.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21309.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21301.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD (2)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21310.ts
+#EXTINF:-1,IT: Sky Cinema Max  1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21305.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21304.ts
+#EXTINF:-1,IT: Sky Cinema Passion
+http://portal.simiptv.com:8001/live/MV/bhaskar/21300.ts
+#EXTINF:-1,* * * * * * * * * * IT: CALCIO * * * * * * * * * *
+http://portal.simiptv.com:8001/live/MV/bhaskar/21323.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21321.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21320.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21319.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21318.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21317.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21316.ts
+#EXTINF:-1,IT: SKY Calcio 7 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21315.ts
+#EXTINF:-1,IT: SKY Calcio 8 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21314.ts
+#EXTINF:-1,IT: SKY Calcio 9 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21313.ts
+#EXTINF:-1,IT: SKY Calcio 10 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21312.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21322.ts
+#EXTINF:-1,===== Turkey =====
+http://portal.simiptv.com:8001/live/MV/bhaskar/18040.ts
+#EXTINF:-1,TRK: 
+http://portal.simiptv.com:8001/live/MV/bhaskar/17998.ts
+#EXTINF:-1,TRK:  24 TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18039.ts
+#EXTINF:-1,TRK:  360 TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18038.ts
+#EXTINF:-1,TRK:  BEN TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18037.ts
+#EXTINF:-1,TRK:  BENGUTURK TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18036.ts
+#EXTINF:-1,TRK:  BLOOMBERG HT
+http://portal.simiptv.com:8001/live/MV/bhaskar/18035.ts
+#EXTINF:-1,TRK:  SKYTURK 360
+http://portal.simiptv.com:8001/live/MV/bhaskar/18034.ts
+#EXTINF:-1,TRK:  SPORTS TV SECENEK 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/18033.ts
+#EXTINF:-1,TRK:  TGRTHABER
+http://portal.simiptv.com:8001/live/MV/bhaskar/18032.ts
+#EXTINF:-1,TRK:  TJK TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18031.ts
+#EXTINF:-1,TRK:  TRT KURDI(6)
+http://portal.simiptv.com:8001/live/MV/bhaskar/18030.ts
+#EXTINF:-1,TRK:  TRT TURK
+http://portal.simiptv.com:8001/live/MV/bhaskar/18029.ts
+#EXTINF:-1,TRK:  TRT WORLD
+http://portal.simiptv.com:8001/live/MV/bhaskar/18028.ts
+#EXTINF:-1,TRK:  TRT1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/18027.ts
+#EXTINF:-1,TRK:  TRT1 HD SECENEK 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/18026.ts
+#EXTINF:-1,TRK:  TRTHABER HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/18025.ts
+#EXTINF:-1,TRK: AKSU TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18024.ts
+#EXTINF:-1,TRK: BURSASPOR TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18023.ts
+#EXTINF:-1,TRK: KANAL 7
+http://portal.simiptv.com:8001/live/MV/bhaskar/18022.ts
+#EXTINF:-1,TRK: M-TV AZ
+http://portal.simiptv.com:8001/live/MV/bhaskar/18021.ts
+#EXTINF:-1,TRK: RUMELI TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18020.ts
+#EXTINF:-1,TRK: SEMERKAND
+http://portal.simiptv.com:8001/live/MV/bhaskar/18019.ts
+#EXTINF:-1,TRK: SEMERKAND HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/18018.ts
+#EXTINF:-1,TRK: SHOW MAX
+http://portal.simiptv.com:8001/live/MV/bhaskar/18017.ts
+#EXTINF:-1,TRK: SIVAS SRT TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18016.ts
+#EXTINF:-1,TRK: SPORTS TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18015.ts
+#EXTINF:-1,TRK: SPORTS TV SE
+http://portal.simiptv.com:8001/live/MV/bhaskar/18014.ts
+#EXTINF:-1,TRK: TGRTHABER
+http://portal.simiptv.com:8001/live/MV/bhaskar/18013.ts
+#EXTINF:-1,TRK: TJK TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/18012.ts
+#EXTINF:-1,TRK: TRT 
+http://portal.simiptv.com:8001/live/MV/bhaskar/18008.ts
+#EXTINF:-1,TRK: TRT 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/18011.ts
+#EXTINF:-1,TRK: TRT ARAP
+http://portal.simiptv.com:8001/live/MV/bhaskar/18010.ts
+#EXTINF:-1,TRK: TRT AVAZ
+http://portal.simiptv.com:8001/live/MV/bhaskar/18009.ts
+#EXTINF:-1,TRK: TRT KURDI
+http://portal.simiptv.com:8001/live/MV/bhaskar/18007.ts
+#EXTINF:-1,TRK: TRT M
+http://portal.simiptv.com:8001/live/MV/bhaskar/18006.ts
+#EXTINF:-1,TRK: TRT OKUL
+http://portal.simiptv.com:8001/live/MV/bhaskar/18005.ts
+#EXTINF:-1,TRK: TRTHABER HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/18004.ts
+#EXTINF:-1,TRK: TV 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/18003.ts
+#EXTINF:-1,TRK: TV10
+http://portal.simiptv.com:8001/live/MV/bhaskar/18002.ts
+#EXTINF:-1,TRK: TV41
+http://portal.simiptv.com:8001/live/MV/bhaskar/18001.ts
+#EXTINF:-1,TRK: TV52
+http://portal.simiptv.com:8001/live/MV/bhaskar/18000.ts
+#EXTINF:-1,TRK: TVNET
+http://portal.simiptv.com:8001/live/MV/bhaskar/17999.ts
+#EXTINF:-1,TRK: VUSLAT TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17997.ts
+#EXTINF:-1,TRK:BURSASPOR TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17996.ts
+#EXTINF:-1,TRK:SPORTS TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/17995.ts
+#EXTINF:-1,TR: ATV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21437.ts
+#EXTINF:-1,TR: BEiN BOX OFFiCE 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21436.ts
+#EXTINF:-1,TR: BEiN BOX OFFiCE 3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21435.ts
+#EXTINF:-1,TR: Bein Movies Stars HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21434.ts
+#EXTINF:-1,TR: Bein Movies Turk
+http://portal.simiptv.com:8001/live/MV/bhaskar/21433.ts
+#EXTINF:-1,TR: Cartoon Network
+http://portal.simiptv.com:8001/live/MV/bhaskar/21432.ts
+#EXTINF:-1,TR: CineStar Komedi HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21431.ts
+#EXTINF:-1,TR: CineStar Vizyon 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21430.ts
+#EXTINF:-1,TR: Cinestar Vizyon 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21429.ts
+#EXTINF:-1,TR: Cinestar Vizyon 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21428.ts
+#EXTINF:-1,TR: CNN HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21427.ts
+#EXTINF:-1,TR: DISCOVERY CHANEL HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21426.ts
+#EXTINF:-1,TR: Docubox HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21425.ts
+#EXTINF:-1,TR: Eurosport 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21424.ts
+#EXTINF:-1,TR: Eurosport 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21423.ts
+#EXTINF:-1,TR: Fenerbace TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21422.ts
+#EXTINF:-1,TR: Fightbox HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21421.ts
+#EXTINF:-1,TR: Filmbox Adrenalin
+http://portal.simiptv.com:8001/live/MV/bhaskar/21420.ts
+#EXTINF:-1,TR: Filmbox Aksiyon
+http://portal.simiptv.com:8001/live/MV/bhaskar/21419.ts
+#EXTINF:-1,TR: Filmbox Animation HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21418.ts
+#EXTINF:-1,TR: Filmbox Fantastik
+http://portal.simiptv.com:8001/live/MV/bhaskar/21417.ts
+#EXTINF:-1,TR: Filmbox Komedi HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21416.ts
+#EXTINF:-1,TR: Filmbox Sci-Fi HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21415.ts
+#EXTINF:-1,TR: Flash TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21414.ts
+#EXTINF:-1,TR: Fox
+http://portal.simiptv.com:8001/live/MV/bhaskar/21413.ts
+#EXTINF:-1,TR: Fox Crime
+http://portal.simiptv.com:8001/live/MV/bhaskar/21412.ts
+#EXTINF:-1,TR: FOX HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21411.ts
+#EXTINF:-1,TR: Fox Life
+http://portal.simiptv.com:8001/live/MV/bhaskar/21410.ts
+#EXTINF:-1,TR: LALEG?L TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21409.ts
+#EXTINF:-1,TR: LIG TV 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21408.ts
+#EXTINF:-1,TR: LIG TV 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21407.ts
+#EXTINF:-1,TR: LIG TV 3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21406.ts
+#EXTINF:-1,TR: LIG TV 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21405.ts
+#EXTINF:-1,TR: LOCAL 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21404.ts
+#EXTINF:-1,TR: LOCAL 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21403.ts
+#EXTINF:-1,TR: LOCAL 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21402.ts
+#EXTINF:-1,TR: MAGIC BOX 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21401.ts
+#EXTINF:-1,TR: MAGIC BOX 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21400.ts
+#EXTINF:-1,TR: MAGIC BOX 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21399.ts
+#EXTINF:-1,TR: MAGIC BOX 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21398.ts
+#EXTINF:-1,TR: MAGIC BOX 5
+http://portal.simiptv.com:8001/live/MV/bhaskar/21397.ts
+#EXTINF:-1,TR: MAGIC BOX ANIMASYON
+http://portal.simiptv.com:8001/live/MV/bhaskar/21396.ts
+#EXTINF:-1,TR: MAGIC BOX COMEDY
+http://portal.simiptv.com:8001/live/MV/bhaskar/21395.ts
+#EXTINF:-1,TR: MGM Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/21394.ts
+#EXTINF:-1,TR: Minika cocuk
+http://portal.simiptv.com:8001/live/MV/bhaskar/21393.ts
+#EXTINF:-1,TR: Moviemax Oscar HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21392.ts
+#EXTINF:-1,TR: Moviesmart Action HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21391.ts
+#EXTINF:-1,TR: Moviesmart Family HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21390.ts
+#EXTINF:-1,TR: Moviesmart Fest HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21389.ts
+#EXTINF:-1,TR: Moviesmart Platin 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21388.ts
+#EXTINF:-1,TR: Moviesmart Platin HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21387.ts
+#EXTINF:-1,TR: Moviesmart Premium 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21386.ts
+#EXTINF:-1,TR: Moviesmart Premium HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21385.ts
+#EXTINF:-1,TR: Nat Geo People
+http://portal.simiptv.com:8001/live/MV/bhaskar/21384.ts
+#EXTINF:-1,TR: Nat Geo Wild
+http://portal.simiptv.com:8001/live/MV/bhaskar/21383.ts
+#EXTINF:-1,TR: National Geo Wild
+http://portal.simiptv.com:8001/live/MV/bhaskar/21382.ts
+#EXTINF:-1,TR: Power Turk HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21381.ts
+#EXTINF:-1,TR: POWERTV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21380.ts
+#EXTINF:-1,TR: SALON 1HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21379.ts
+#EXTINF:-1,TR: SALON 2HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21378.ts
+#EXTINF:-1,TR: SALON 3HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21377.ts
+#EXTINF:-1,TR: Saran Sport HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21376.ts
+#EXTINF:-1,TR: SHOW MAX
+http://portal.simiptv.com:8001/live/MV/bhaskar/21375.ts
+#EXTINF:-1,TR: SHOW TV SD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21374.ts
+#EXTINF:-1,TR: SineTivi 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21373.ts
+#EXTINF:-1,TR: SineTivi Adrenalin HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21372.ts
+#EXTINF:-1,TR: Smart Spor 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21371.ts
+#EXTINF:-1,TR: Sports TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21370.ts
+#EXTINF:-1,TR: The Crime   investigation Network HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21369.ts
+#EXTINF:-1,TR: Tivibu Spor 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21368.ts
+#EXTINF:-1,TR: Tivibu Spor 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21367.ts
+#EXTINF:-1,TR: Tivibu Spor 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21366.ts
+#EXTINF:-1,TR: Tivibu Spor 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21365.ts
+#EXTINF:-1,TR: Ulke TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21364.ts
+#EXTINF:-1,>>>>>Germany<<<<<
+http://portal.simiptv.com:8001/live/MV/bhaskar/19193.ts
+#EXTINF:-1,>>>GRM<<<Sky Cinema<<<
+http://portal.simiptv.com:8001/live/MV/bhaskar/21159.ts
+#EXTINF:-1,GRM - GRM: AXN HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21158.ts
+#EXTINF:-1,GRM - GRM: GRMluxe Music HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21152.ts
+#EXTINF:-1,GRM - GRM: Kabel eins Classics
+http://portal.simiptv.com:8001/live/MV/bhaskar/21153.ts
+#EXTINF:-1,GRM - GRM: SKY Action HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21154.ts
+#EXTINF:-1,GRM - GRM: SKY Atlantic
+http://portal.simiptv.com:8001/live/MV/bhaskar/21157.ts
+#EXTINF:-1,GRM - GRM: SKY Cinema  1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21148.ts
+#EXTINF:-1,GRM - GRM: SKY Cinema  24 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21149.ts
+#EXTINF:-1,GRM - GRM: SKY Cinema HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21150.ts
+#EXTINF:-1,GRM - GRM: SKY Hits HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21151.ts
+#EXTINF:-1,GRM - GRM: SKY Nostalgie
+http://portal.simiptv.com:8001/live/MV/bhaskar/21155.ts
+#EXTINF:-1,GRM - GRM: Universal Channel HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21156.ts
+#EXTINF:-1,GRM: Sky Action
+http://portal.simiptv.com:8001/live/MV/bhaskar/21144.ts
+#EXTINF:-1,GRM: Sky Cinema
+http://portal.simiptv.com:8001/live/MV/bhaskar/21140.ts
+#EXTINF:-1,GRM: Sky Cinema-24
+http://portal.simiptv.com:8001/live/MV/bhaskar/21141.ts
+#EXTINF:-1,GRM: Sky Comedy
+http://portal.simiptv.com:8001/live/MV/bhaskar/21142.ts
+#EXTINF:-1,GRM: Sky Krimi
+http://portal.simiptv.com:8001/live/MV/bhaskar/21143.ts
+#EXTINF:-1,GRM: Sky MGM HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21139.ts
+#EXTINF:-1,GRM: sky_cinema_HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21145.ts
+#EXTINF:-1,GRM: SKY_EMOTION
+http://portal.simiptv.com:8001/live/MV/bhaskar/21146.ts
+#EXTINF:-1,GRM: Sky_Germany_Cinema_1_HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21138.ts
+#EXTINF:-1,GRM: Sky_Hits
+http://portal.simiptv.com:8001/live/MV/bhaskar/21147.ts
+#EXTINF:-1,GRM - GRM: cartoon network HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21184.ts
+#EXTINF:-1,GRM - GRM: Romance TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21186.ts
+#EXTINF:-1,GRM: ARD 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21161.ts
+#EXTINF:-1,GRM: ARTE
+http://portal.simiptv.com:8001/live/MV/bhaskar/21166.ts
+#EXTINF:-1,GRM: Austria 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/21168.ts
+#EXTINF:-1,GRM: Dmax
+http://portal.simiptv.com:8001/live/MV/bhaskar/21167.ts
+#EXTINF:-1,GRM: Euronews
+http://portal.simiptv.com:8001/live/MV/bhaskar/21190.ts
+#EXTINF:-1,GRM: Kabel 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21160.ts
+#EXTINF:-1,GRM: N24
+http://portal.simiptv.com:8001/live/MV/bhaskar/21177.ts
+#EXTINF:-1,GRM: NDR HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21179.ts
+#EXTINF:-1,GRM: ORF_1_HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21169.ts
+#EXTINF:-1,GRM: ORF_2_HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21170.ts
+#EXTINF:-1,GRM: ORF_Eins
+http://portal.simiptv.com:8001/live/MV/bhaskar/21171.ts
+#EXTINF:-1,GRM: Planet HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21185.ts
+#EXTINF:-1,GRM: Pro 7
+http://portal.simiptv.com:8001/live/MV/bhaskar/21162.ts
+#EXTINF:-1,GRM: Prosieben HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21180.ts
+#EXTINF:-1,GRM: Prosieben Maxx HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21181.ts
+#EXTINF:-1,GRM: Rtl
+http://portal.simiptv.com:8001/live/MV/bhaskar/21163.ts
+#EXTINF:-1,GRM: RTL Passion
+http://portal.simiptv.com:8001/live/MV/bhaskar/21178.ts
+#EXTINF:-1,GRM: Rtl-2 GRM
+http://portal.simiptv.com:8001/live/MV/bhaskar/21164.ts
+#EXTINF:-1,GRM: SAT_1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21172.ts
+#EXTINF:-1,GRM: Sixx HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21183.ts
+#EXTINF:-1,GRM: Sony TV HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21187.ts
+#EXTINF:-1,GRM: Sport 1 US
+http://portal.simiptv.com:8001/live/MV/bhaskar/21188.ts
+#EXTINF:-1,GRM: Sport1  HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21189.ts
+#EXTINF:-1,GRM: SUPER_RTL
+http://portal.simiptv.com:8001/live/MV/bhaskar/21173.ts
+#EXTINF:-1,GRM: SWR
+http://portal.simiptv.com:8001/live/MV/bhaskar/21182.ts
+#EXTINF:-1,GRM: TNT_Film_(TCM)
+http://portal.simiptv.com:8001/live/MV/bhaskar/21174.ts
+#EXTINF:-1,GRM: Vox HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21165.ts
+#EXTINF:-1,GRM: WDR
+http://portal.simiptv.com:8001/live/MV/bhaskar/21175.ts
+#EXTINF:-1,GRM: ZDF
+http://portal.simiptv.com:8001/live/MV/bhaskar/21176.ts
+#EXTINF:-1,------- SKY Welt -------
+http://portal.simiptv.com:8001/live/MV/bhaskar/21202.ts
+#EXTINF:-1,DE - DE: Heimat kanal
+http://portal.simiptv.com:8001/live/MV/bhaskar/21197.ts
+#EXTINF:-1,DE - DE: Motorvision
+http://portal.simiptv.com:8001/live/MV/bhaskar/21201.ts
+#EXTINF:-1,DE - DE: National Geographic
+http://portal.simiptv.com:8001/live/MV/bhaskar/21199.ts
+#EXTINF:-1,DE - DE: RTL Crime HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21198.ts
+#EXTINF:-1,DE - DE: Spiegel Geschichte
+http://portal.simiptv.com:8001/live/MV/bhaskar/21200.ts
+#EXTINF:-1,DE: DISCOVERY
+http://portal.simiptv.com:8001/live/MV/bhaskar/21196.ts
+#EXTINF:-1,DE: HISTORY_CHANNEL
+http://portal.simiptv.com:8001/live/MV/bhaskar/21194.ts
+#EXTINF:-1,DE: Nat_Geo_Wild
+http://portal.simiptv.com:8001/live/MV/bhaskar/21195.ts
+#EXTINF:-1,DE: RTL_Nitro
+http://portal.simiptv.com:8001/live/MV/bhaskar/21191.ts
+#EXTINF:-1,DE: Sky_Discovery_Channel_HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21192.ts
+#EXTINF:-1,DE: Sky_National_Geographic_HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21193.ts
+#EXTINF:-1,------- Sky Sport -------
+http://portal.simiptv.com:8001/live/MV/bhaskar/21219.ts
+#EXTINF:-1,DE - DE: Eurosport HD1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21218.ts
+#EXTINF:-1,DE - DE: SKY Sport 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21215.ts
+#EXTINF:-1,DE - DE: SKY Sport 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21216.ts
+#EXTINF:-1,DE: SKY_SPORT_NEWS
+http://portal.simiptv.com:8001/live/MV/bhaskar/21210.ts
+#EXTINF:-1,DE: Sky Sports HD 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21212.ts
+#EXTINF:-1,DE: SKY SPORTS 2 HD ( DE )
+http://portal.simiptv.com:8001/live/MV/bhaskar/21213.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21214.ts
+#EXTINF:-1,DE: Eurosport
+http://portal.simiptv.com:8001/live/MV/bhaskar/21211.ts
+#EXTINF:-1,DE - DE: Sportdigital HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21217.ts
+#EXTINF:-1,------- SKY Kinder --------
+http://portal.simiptv.com:8001/live/MV/bhaskar/21209.ts
+#EXTINF:-1,DE - DE: ANIXE
+http://portal.simiptv.com:8001/live/MV/bhaskar/21207.ts
+#EXTINF:-1,DE - DE: Boomerang
+http://portal.simiptv.com:8001/live/MV/bhaskar/21208.ts
+#EXTINF:-1,DE - DE: Disney XD HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21206.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://portal.simiptv.com:8001/live/MV/bhaskar/21203.ts
+#EXTINF:-1,DE: Disney JR
+http://portal.simiptv.com:8001/live/MV/bhaskar/21204.ts
+#EXTINF:-1,DE: Disney_Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/21205.ts
+#EXTINF:-1,------- SKY Select -------
+http://portal.simiptv.com:8001/live/MV/bhaskar/21236.ts
+#EXTINF:-1,DE: SKY SELECT 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21235.ts
+#EXTINF:-1,DE: SKY SELECT 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21234.ts
+#EXTINF:-1,DE: SKY SELECT 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21233.ts
+#EXTINF:-1,DE: SKY SELECT 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21232.ts
+#EXTINF:-1,DE: SKY SELECT 5
+http://portal.simiptv.com:8001/live/MV/bhaskar/21231.ts
+#EXTINF:-1,DE: SKY SELECT 6
+http://portal.simiptv.com:8001/live/MV/bhaskar/21230.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21229.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21228.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21227.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21226.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21225.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21224.ts
+#EXTINF:-1,DE: Sky Select 7 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21223.ts
+#EXTINF:-1,DE: Sky Select 8 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21222.ts
+#EXTINF:-1,DE: Sky Select 9 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21221.ts
+#EXTINF:-1,DE: Sky Select 10 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21220.ts
+#EXTINF:-1,------- SKY Serien -------
+http://portal.simiptv.com:8001/live/MV/bhaskar/21243.ts
+#EXTINF:-1,DE: FOX
+http://portal.simiptv.com:8001/live/MV/bhaskar/21242.ts
+#EXTINF:-1,DE: Sky 13 Street HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21238.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21237.ts
+#EXTINF:-1,DE: Sky Germany Atlantic
+http://portal.simiptv.com:8001/live/MV/bhaskar/21239.ts
+#EXTINF:-1,DE: Sky_AtlanticHD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21241.ts
+#EXTINF:-1,DE: SyFy
+http://portal.simiptv.com:8001/live/MV/bhaskar/21240.ts
+#EXTINF:-1,####ROMANIA####
+http://portal.simiptv.com:8001/live/MV/bhaskar/17630.ts
+#EXTINF:-1,[RO] Acasa TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21874.ts
+#EXTINF:-1,[RO] Antena 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21873.ts
+#EXTINF:-1,[RO] Antena 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21872.ts
+#EXTINF:-1,[RO] Antena Stars
+http://portal.simiptv.com:8001/live/MV/bhaskar/21871.ts
+#EXTINF:-1,[RO] AXN
+http://portal.simiptv.com:8001/live/MV/bhaskar/21870.ts
+#EXTINF:-1,[RO] AXN Black
+http://portal.simiptv.com:8001/live/MV/bhaskar/21869.ts
+#EXTINF:-1,[RO] AXN White
+http://portal.simiptv.com:8001/live/MV/bhaskar/21868.ts
+#EXTINF:-1,[RO] B1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21867.ts
+#EXTINF:-1,[RO] Boomerang
+http://portal.simiptv.com:8001/live/MV/bhaskar/21841.ts
+#EXTINF:-1,[RO] Cartoon Network
+http://portal.simiptv.com:8001/live/MV/bhaskar/21866.ts
+#EXTINF:-1,[RO] Cinemax 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21865.ts
+#EXTINF:-1,[RO] Digi 24
+http://portal.simiptv.com:8001/live/MV/bhaskar/21864.ts
+#EXTINF:-1,[RO] Digi Animal World
+http://portal.simiptv.com:8001/live/MV/bhaskar/21863.ts
+#EXTINF:-1,[RO] Digi Film
+http://portal.simiptv.com:8001/live/MV/bhaskar/21862.ts
+#EXTINF:-1,[RO] Digi Life
+http://portal.simiptv.com:8001/live/MV/bhaskar/21861.ts
+#EXTINF:-1,[RO] Digi Sport 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21860.ts
+#EXTINF:-1,[RO] Digi Sport 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21859.ts
+#EXTINF:-1,[RO] Digi Sport 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21858.ts
+#EXTINF:-1,[RO] Digi Sport 4
+http://portal.simiptv.com:8001/live/MV/bhaskar/21857.ts
+#EXTINF:-1,[RO] Digi World
+http://portal.simiptv.com:8001/live/MV/bhaskar/21856.ts
+#EXTINF:-1,[RO] Disney_ Junior
+http://portal.simiptv.com:8001/live/MV/bhaskar/21855.ts
+#EXTINF:-1,[RO]Disney-Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/21827.ts
+#EXTINF:-1,[RO] Etno Tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/21854.ts
+#EXTINF:-1,[RO] Eurosport
+http://portal.simiptv.com:8001/live/MV/bhaskar/21853.ts
+#EXTINF:-1,[RO] Eurosport 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21852.ts
+#EXTINF:-1,[RO] Happy Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/21851.ts
+#EXTINF:-1,[RO] HBO 2 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21850.ts
+#EXTINF:-1,[RO] HBO 3 HD
+http://portal.simiptv.com:8001/live/MV/bhaskar/21849.ts
+#EXTINF:-1,[RO] History Channel
+http://portal.simiptv.com:8001/live/MV/bhaskar/21848.ts
+#EXTINF:-1,[RO] Kanal D
+http://portal.simiptv.com:8001/live/MV/bhaskar/21847.ts
+#EXTINF:-1,[RO] KISS TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21846.ts
+#EXTINF:-1,[RO] Look Plus
+http://portal.simiptv.com:8001/live/MV/bhaskar/21845.ts
+#EXTINF:-1,[RO] Look tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/21844.ts
+#EXTINF:-1,[RO] Megamax
+http://portal.simiptv.com:8001/live/MV/bhaskar/21843.ts
+#EXTINF:-1,[RO] Minimax
+http://portal.simiptv.com:8001/live/MV/bhaskar/21842.ts
+#EXTINF:-1,[RO] National Geographic
+http://portal.simiptv.com:8001/live/MV/bhaskar/21840.ts
+#EXTINF:-1,[RO] Nickelodeon
+http://portal.simiptv.com:8001/live/MV/bhaskar/21839.ts
+#EXTINF:-1,[RO] Pro TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21838.ts
+#EXTINF:-1,[RO] Procinema
+http://portal.simiptv.com:8001/live/MV/bhaskar/21837.ts
+#EXTINF:-1,[RO] Realitatea Tv
+http://portal.simiptv.com:8001/live/MV/bhaskar/21836.ts
+#EXTINF:-1,[RO] Romania TV
+http://portal.simiptv.com:8001/live/MV/bhaskar/21835.ts
+#EXTINF:-1,[RO] Sport.ro
+http://portal.simiptv.com:8001/live/MV/bhaskar/21834.ts
+#EXTINF:-1,[RO] TV 1000
+http://portal.simiptv.com:8001/live/MV/bhaskar/21833.ts
+#EXTINF:-1,[RO] TVR 1
+http://portal.simiptv.com:8001/live/MV/bhaskar/21832.ts
+#EXTINF:-1,[RO] TVR 2
+http://portal.simiptv.com:8001/live/MV/bhaskar/21831.ts
+#EXTINF:-1,[RO] TVR 3
+http://portal.simiptv.com:8001/live/MV/bhaskar/21830.ts
+#EXTINF:-1,[RO] Viasat History
+http://portal.simiptv.com:8001/live/MV/bhaskar/21829.ts
+#EXTINF:-1,[RO] Viasat Nature
+http://portal.simiptv.com:8001/live/MV/bhaskar/21828.ts
+#EXTINF:-1,Yamla Pagla Deewana: Phir Se (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26248.mp4
+#EXTINF:-1,STREE (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26246.mp4
+#EXTINF:-1,Kuchh Bheege Alfaaz (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26247.mp4
+#EXTINF:-1,Race 3
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26229.mp4
+#EXTINF:-1,Eega
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26238.mp4
+#EXTINF:-1,The Black Prince
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26237.mp4
+#EXTINF:-1,Boarding School (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26244.mp4
+#EXTINF:-1,Jai Jai Bhai Varinder Singh
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26243.mp4
+#EXTINF:-1,Blood Fest
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26245.mp4
+#EXTINF:-1,Black Panther (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26250.mp4
+#EXTINF:-1,Hotel Transylvania 3: Summer Vacation (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26249.mp4
+#EXTINF:-1,Rampage (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26251.mp4
+#EXTINF:-1,An Actor Prepares (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26254.mp4
+#EXTINF:-1,Avengers: Infinity War(2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26252.mp4
+#EXTINF:-1,Pacific Rim: Uprising (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26253.mp4
+#EXTINF:-1,Laila Majnu(2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26459.mp4
+#EXTINF:-1,Saheb, Biwi Aur Gangster 3(2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26458.mp4
+#EXTINF:-1,Satyameva Jayate (2018)
+http://portal.simiptv.com:8001/movie/MV/bhaskar/26460.mp4
+#EXTINF:-1,tetst
+http://portal.simiptv.com:8001/live/MV/bhaskar/26465.ts
